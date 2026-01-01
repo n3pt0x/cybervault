@@ -1,0 +1,58 @@
+# 🔓 Databases & Leaks
+
+## 🌐 Search engine
+
+- [leakix.net](https://leakix.net/) - Crawls the internet and indexes exposed services.
+- [search.carrot2.org](https://search.carrot2.org/) - OSINT metasearch engine with clustering results.
+- [searchftps.net](https://www.searchftps.net/) - FTP search engine.
+
+### </> Code
+
+- [Grep App](https://grep.app/) - Search leaked code on GitHub repositories.
+- [searchcode.com](https://searchcode.com/) - Code search engine (GitHub, GitLab, Bitbucket, ...).
+- [publicwww.com](https://publicwww.com) - Source code search engine, find websites using specific keywords (JS, HTML, analytics IDs, etc.).
+
+#### Github commit leak email
+
+- You can try to get an email associated with a commit on GitHub.  
+  Steps:
+  1. Browse the repository and check the **Commits** history.
+  2. Click on a commit and look for the **author info** (name and email).
+  3. If needed, view the file in **Raw** mode to inspect the content directly.
+- _Note: this can sometimes help identify users from leaked code repositories. Always respect privacy and use responsibly._
+
+## Public databases
+
+- [exploit-db.com](https://www.exploit-db.com/) - Website references well-known exploits, GoogleDorks filters.
+
+## 💾 Leak Databases
+
+### 🌍 Global Investigations
+
+- [OCCRP Aleph](https://aleph.occrp.org/) - Databases about countries, companies, people, and investigations.
+- [ICIJ Databases](https://www.icij.org/investigations/) - Investigative journalism resources
+- [WikiLeaks](https://wikileaks.org/) - Leaked diplomatic & corporate documents
+- [Information Is Beautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - Visualization of the biggest leaks by year and company
+
+### 🔓 Password
+
+- [ProxyNova - COMB](https://www.proxynova.com/tools/comb/) - API to search password leaks from emails.
+- [BreachDirectory](https://breachdirectory.org/) - Alternative to HIBP, search for breached emails/usernames.
+- [Have I Been Pwned](https://haveibeenpwned.com/) - Check if an email/username was leaked in breaches.
+- [Leak-Lookup](https://leak-lookup.com/) - Breach database with API. (Free & Paid)
+- [Dehashed](https://dehashed.com/) - Powerful breach search engine. (Paid)
+- [Snusbase](https://snusbase.com/) - Credential leaks search with a simple interface. (Paid)
+
+### 📧 Email / Domain / Phone
+
+- [phonebook.cz](https://phonebook.cz/) - Phonebook list all informations possessed about research.
+
+### 📂 Documents
+
+- [cryptome.org](https://cryptome.org/) - Archive of leaked documents since 1996.
+- [IntelligenceX](https://intelx.io/) - Powerful search engine indexing leaks, paste sites, darknet, and public data. (Paid)
+- [GrayhatWarfare](https://buckets.grayhatwarfare.com/) - Search engine for public Amazon S3 buckets and exposed files.
+
+### 📝 Pastebin Scraper / API
+
+- [Pastebin Scraper / API](https://pastebin.com/doc_api) - Scrape and research public Pastebin content.

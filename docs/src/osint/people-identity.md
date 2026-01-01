@@ -1,0 +1,44 @@
+# 🔎 People / Identity OSINT
+
+## 🧰 Comprehensive OSINT Tools
+
+- [SocialSearcher](https://www.social-searcher.com/) - Real-time social media monitoring and search engine (Very good results).
+- [osint.rocks](https://osint.rocks) - Aggregator of multiple OSINT tools.
+- [Epieos](https://epieos.com/) - Advanced email lookup and OSINT analysis.
+- [thatsthem.com](https://thatsthem.com/) - Saerch engine via various resources in our possession.
+- [IntelTechniques People Search](https://inteltechniques.com/osint/) - Michael Bazzell's curated OSINT tools.
+- [Mosint](https://github.com/alpkeskin/mosint) - CLI framework that aggregates multiple OSINT tools and results.
+
+## 📧 Email / Username / Phone
+
+- [Holehe (GitHub)](https://github.com/megadose/holehe) - Check if email is registered on popular platforms.
+- [emailrep.io](https://emailrep.io/) - Email reputation and OSINT scoring.
+- [Snov.io](https://snov.io/fr/trouver-une-adresse-mail) - Find emails linked to a domain.
+- [WhatsMyName](https://whatsmyname.app/) - Username search across multiple sites.
+- [Hunter.io](https://hunter.io/) - Find email addresses by domain.
+- [ip-api.com](https://ip-api.com/) - IP geolocation API.
+
+> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/OSINT/databases-and-leaks.md#github-commit-leak-email)
+
+## 🖼️ Image & Face Search
+
+- [TinEye](https://tineye.com/) - Reverse image search engine.
+- [PimEyes](https://pimeyes.com/en) - Face recognition search engine.
+- [Yandex Images](https://ya.ru/) - Powerful reverse image search.
+- [Google Images](https://www.google.com/imghp?hl=EN) - Classic reverse image search.
+- [InVID](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - Video and image verification plugin.
+- [Berify](https://www.berify.com/) - Reverse image search focused on identifying image duplicates.
+
+## 🌐 Social Media & Profiles
+
+- [Social Blade](https://socialblade.com/) - Analytics on social media accounts.
+- [Foller.me](https://foller.me/) - Analyze Twitter accounts (tweets, hashtags, activity).
+- [instantusername.com](https://instantusername.com/) - Check username availability on social networks.
+- [Namechk](https://namechk.com/) - Quickly check username availability across hundreds of platforms.
+
+## 🏠 Public Records & Background Checks
+
+- [FamilyTreeNow](https://www.familytreenow.com/) - Public records lookup (free).
+- [Whitepages](https://www.whitepages.com/) - People lookup & public records.
+- [BeenVerified](https://www.beenverified.com/) - Identity & people search (paid).
+- [filae.com](https://www.filae.com/) - Genealogy tools via multiples informations (born before 1920).
