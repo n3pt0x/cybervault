@@ -21,11 +21,7 @@
   3. If needed, view the file in **Raw** mode to inspect the content directly.
 - _Note: this can sometimes help identify users from leaked code repositories. Always respect privacy and use responsibly._
 
-## Public databases
-
-- [exploit-db.com](https://www.exploit-db.com/) - Website references well-known exploits, GoogleDorks filters.
-
-## 💾 Leak Databases
+## 💾 Leak & Publics Databases
 
 ### 🌍 Global Investigations
 
@@ -50,6 +46,7 @@
 ### 📂 Documents
 
 - [cryptome.org](https://cryptome.org/) - Archive of leaked documents since 1996.
+- [aleph.occrp.org](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
 - [IntelligenceX](https://intelx.io/) - Powerful search engine indexing leaks, paste sites, darknet, and public data. (Paid)
 - [GrayhatWarfare](https://buckets.grayhatwarfare.com/) - Search engine for public Amazon S3 buckets and exposed files.
 

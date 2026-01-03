@@ -12,13 +12,14 @@
 ## 📧 Email / Username / Phone
 
 - [Holehe (GitHub)](https://github.com/megadose/holehe) - Check if email is registered on popular platforms.
+- [enola](https://github.com/TheYahya/enola) - This is [Sherlock](https://github.com/sherlock-project/sherlock) sister.
 - [emailrep.io](https://emailrep.io/) - Email reputation and OSINT scoring.
 - [Snov.io](https://snov.io/fr/trouver-une-adresse-mail) - Find emails linked to a domain.
 - [WhatsMyName](https://whatsmyname.app/) - Username search across multiple sites.
 - [Hunter.io](https://hunter.io/) - Find email addresses by domain.
 - [ip-api.com](https://ip-api.com/) - IP geolocation API.
 
-> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/OSINT/databases-and-leaks.md#github-commit-leak-email)
+> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/OSINT/databases-&-leaks.md#github-commit-leak-email)
 
 ## 🖼️ Image & Face Search
 
