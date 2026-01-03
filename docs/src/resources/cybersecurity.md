@@ -4,13 +4,19 @@
 
 - [blackhatethicalhacking.com](https://www.blackhatethicalhacking.com/) - Multiples resources (Articles, Tools, Infosec News).
 
+## 🗂️ Inventory & Listing
+
+- [inventory](https://inventory.raw.pm/resources.html) - Inventory & list of several resources, tools.
+
 ## 🗫 Forum
 
 - [r/cybersecurity](https://www.reddit.com/r/cybersecurity/) - Reddit cybersecurity forum.
-- [news.ycombinator.com](https://news.ycombinator.com/) - News about cybersecurity
+- [news.ycombinator.com](https://news.ycombinator.com/) - News about cybersecurity.
+- [Newbie Contest (FR)](https://www.newbiecontest.org/) - Forum, challenges, learning, and more.
 - [hackforums.net](https://hackforums.net/)
 - [sinister.ly](https://sinister.ly/) - Social Engineering forum.
 - [cracked.sh](https://cracked.sh/)
+- [infosec.exchange](https://infosec.exchange/explore) - Mastodon social network.
 
 ## ✍️ Blog
 

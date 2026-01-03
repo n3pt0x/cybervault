@@ -23,7 +23,8 @@ export default defineConfig({
       useFolderLinkFromIndexFile: true,
       sortMenusOrderNumericallyFromTitle: true,
       hyphenToSpace: true,
-      capitalizeFirst: true
+      capitalizeFirst: true,
+      capitalizeEachWords: true
     }),
   },
 });

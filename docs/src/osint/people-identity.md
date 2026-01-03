@@ -8,6 +8,7 @@
 - [thatsthem.com](https://thatsthem.com/) - Saerch engine via various resources in our possession.
 - [IntelTechniques People Search](https://inteltechniques.com/osint/) - Michael Bazzell's curated OSINT tools.
 - [Mosint](https://github.com/alpkeskin/mosint) - CLI framework that aggregates multiple OSINT tools and results.
+- [Maigret](https://github.com/soxoj/maigret) - Maigret collects a dossier on a person by username only.
 
 ## 📧 Email / Username / Phone
 
@@ -15,6 +16,7 @@
 - [enola](https://github.com/TheYahya/enola) - This is [Sherlock](https://github.com/sherlock-project/sherlock) sister.
 - [emailrep.io](https://emailrep.io/) - Email reputation and OSINT scoring.
 - [Snov.io](https://snov.io/fr/trouver-une-adresse-mail) - Find emails linked to a domain.
+- [Webmii](https://webmii.com/) - Search with first & last name.
 - [WhatsMyName](https://whatsmyname.app/) - Username search across multiple sites.
 - [Hunter.io](https://hunter.io/) - Find email addresses by domain.
 - [ip-api.com](https://ip-api.com/) - IP geolocation API.

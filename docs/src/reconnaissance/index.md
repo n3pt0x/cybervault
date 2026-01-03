@@ -10,7 +10,7 @@
 - [Napalm](https://www.searchftps.net/) - Open FTP Indexer.
 - [OpenBuckets](https://openbuckets.io/) - Find exposed buckets (AWS, Azure, IBM, ...)
 
-### IOT & Others
+### 💡 IOT & Others
 
 - [zoomeye.org](https://www.zoomeye.org/) - IoT & network search engine.
 - [Insecam](http://www.insecam.org) - Live cameras directory.
