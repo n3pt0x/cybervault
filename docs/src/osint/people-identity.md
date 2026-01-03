@@ -19,7 +19,7 @@
 - [Hunter.io](https://hunter.io/) - Find email addresses by domain.
 - [ip-api.com](https://ip-api.com/) - IP geolocation API.
 
-> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/OSINT/databases-&-leaks.md#github-commit-leak-email)
+> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/osint/databases-and-leaks.md)
 
 ## 🖼️ Image & Face Search
 
