@@ -1,11 +1,11 @@
-# 🕶️ Anonymity
+# 🕶️ Operation Security
 
-## 🕵️ Browsing
+## 🕵️ Basic
 
 - [Tails](https://tails.net/) - Live OS focused on privacy and anonymity.
 - [Riseup](https://riseup.net/) - Privacy-focused services (VPN, email, chat).
 
-### 🫆 Test Fingerprint
+## 🫆 Test Fingerprint
 
 - [CoverYourTracks](https://coveryourtracks.eff.org/) - See how trackers view your browser.
 - [Webkay](https://webkay.robinlinus.com/) - What every Browser knows about you.

@@ -1,4 +1,10 @@
-# 🧠 Learning
+# 💻👾 Cybersecurity
+
+## 🗺️ Inventory & Roadmap
+
+- [inventory](https://inventory.raw.pm/resources.html) - Inventory of several resources.
+- [Security Guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/) - Roadmap of cybersecurity learning.
+- [Cyber Repo](https://github.com/Berkanktk/CyberSecurity) - Cybersecurity learning path.
 
 ## 📖 Learning by Doing
 
@@ -10,10 +16,14 @@
 - [CryptoHack (courses)](https://cryptohack.org/courses/) - Fun platform to learn modern cryptography. <Badge type="tip" text="#cryptography"/>
 - [CyberDefenders](https://cyberdefenders.org/) - Blue Teams plateform to train and to learn **(Freemium)**.
 
-### 📚 Course
+## 📚 Course
 
-- [inventory](https://inventory.raw.pm/resources.html) - Inventory of several resources.
 - [Roppers](https://www.roppers.org/collections) - Learn security, tecniques, networking, fundamentals.
 - [TCM Security Academy](https://academy.tcm-sec.com/) - Cybersecurity Courses (Foundational, Red Team, Blue Team).
 - [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more) **(Freemium)**.
 - [codecademy](https://www.codecademy.com/catalog/subject/cybersecurity) - Enterprise, DevSecOps, Fundamentals.
+- [SANS](https://www.sans.org/) - Free resources, courses, learning paths (beginner to confirmed).
+
+### IOT
+
+- [Pentesting](https://elhacker.info/ebooks%20Joas/Pentest%20IoT%20and%20OT%20-%20Overview.pdf) - Listing resources about pentest IOT & OT.
