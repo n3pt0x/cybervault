@@ -20,12 +20,6 @@
 - [receive-sms.org](https://receive-sms.org/) - Free temp phone numbers.
 - [sms24.me](https://sms24.me/) - Large list of public numbers for disposable use.
 
-## 🧑 Fake Identity Generators
-
-- [fakenamegenerator.com](https://www.fakenamegenerator.com/) - Generate full fake personas.
-- [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) - AI-generated fake profile pictures.
-- [generated.photos](https://generated.photos/) - Customizable AI fake faces.
-
 ## 📂 Anonymous File Sharing
 
 - [anonfiles.com](https://anonfiles.com/) - Upload and share files anonymously.

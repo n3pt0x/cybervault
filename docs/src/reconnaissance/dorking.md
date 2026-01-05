@@ -3,15 +3,6 @@
 > [!NOTE]
 > Dorking is a search method that consists of using advanced filters to get more accurate results.
 
-- [🕷️ Search \& Dorking](#️-search--dorking)
-  - [📚 Resources](#-resources)
-    - [🛠️ Tools](#️-tools)
-  - [Google Dorking](#google-dorking)
-    - [🔍 Core Filters](#-core-filters)
-    - [⚡ Common Dorks](#-common-dorks)
-  - [Twitter Dorking](#twitter-dorking)
-  - [Github Dorking](#github-dorking)
-
 ## 📚 Resources
 
 - [Dorks collections](https://www.blackhatethicalhacking.com/tools/dorks-collections-list/)
