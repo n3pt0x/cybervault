@@ -18,7 +18,7 @@
 
 ## 📚 Course
 
-- [Roppers](https://www.roppers.org/collections) - Learn security, tecniques, networking, fundamentals.
+- [Roppers](https://www.roppers.org/collections) - Learn security, techniques, networking, fundamentals.
 - [TCM Security Academy](https://academy.tcm-sec.com/) - Cybersecurity Courses (Foundational, Red Team, Blue Team).
 - [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more) **(Freemium)**.
 - [codecademy](https://www.codecademy.com/catalog/subject/cybersecurity) - Enterprise, DevSecOps, Fundamentals.

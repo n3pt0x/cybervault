@@ -1,11 +1,28 @@
 # 🕶️ Operation Security
 
+## 🔗 Resources
+
+- [privacytools.io](https://www.privacytools.io/) - Referencing privacy tools by category.
+
 ## 🕵️ Basic
 
-- [Tails](https://tails.net/) - Live OS focused on privacy and anonymity.
 - [Riseup](https://riseup.net/) - Privacy-focused services (VPN, email, chat).
 
-## 🫆 Test Fingerprint
+## 🌐 Browsing
+
+- [Tor](https://www.torproject.org/)
+
+## Search Engine
+
+> Dorking filters are available in most browsers.
+
+- [duckduckgo](https://duckduckgo.com/)
+- [startpage](https://www.startpage.com/sp/search) - Anonymous veiw (mask DNS, IP, Location, User-Agent).
+- [swisscows](https://swisscows.com/)
+- [gibiru](https://gibiru.com/)
+- [kagi](https://kagi.com/)
+
+### 🫆 Fingerprint Testing
 
 - [CoverYourTracks](https://coveryourtracks.eff.org/) - See how trackers view your browser.
 - [Webkay](https://webkay.robinlinus.com/) - What every Browser knows about you.
@@ -31,3 +48,10 @@
 ### 💳 Wallets
 
 - [Wasabiwallet](https://www.wasabiwallet.io/) - Secure, Silent.
+
+
+## ⚙️ Operating System
+
+- [Tails](https://tails.net/)
+- [Qubes OS](https://www.qubes-os.org/)
+- [HiddenVM](https://github.com/aforensics/HiddenVM)

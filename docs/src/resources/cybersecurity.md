@@ -10,6 +10,7 @@
 ## 🗂️ Inventory & Listing
 
 - [inventory](https://inventory.raw.pm/resources.html) - Inventory & list of several resources, tools.
+- [InfoCon](https://infocon.org/) - Documentaries, podcast, word-lists and more. <Badge type="info" text="#learning"/>
 
 ## 🗫 Forum
 

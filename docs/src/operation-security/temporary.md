@@ -3,15 +3,6 @@
 > [!NOTE]
 > Tools for protect your identity during a OSINT session. Create identity, use a temporary services (emails, number phones, identity and others)
 
-## 💬 Anonymous Communication
-
-- [emkei.cz](https://emkei.cz/) - Send anonymous emails.
-- [anonymousemail.me](https://anonymousemail.me/) - Send anonymous emails without signup.
-- [anonymoustext.com](https://www.anonymoustext.com/) - Temporary secure SMS.
-- [signal.org](https://signal.org/) - Encrypted messaging app.
-- [GnuPG](https://gnupg.org/) - Standard open-source for email & file encryption (PGP/GPG).
-  - 👉 [Riseup's GPG guide](https://riseup.net/en/security/message-security/openpgp/best-practices) - Practical tutorial on using GPG safely.
-
 ## ⏳ Temporary services
 
 ### 📧 Temporary & Disposable Emails
@@ -23,6 +14,8 @@
 
 ### 📱 Temporary Phone Numbers
 
+- [hushed](https://hushed.com/) - Senc, received.
+- [anonymoustext.com](https://www.anonymoustext.com/) - Temporary secure SMS.
 - [online-sim.pro](https://online-sim.pro) - Receive SMS anonymously.
 - [receive-sms.org](https://receive-sms.org/) - Free temp phone numbers.
 - [sms24.me](https://sms24.me/) - Large list of public numbers for disposable use.
@@ -44,4 +37,3 @@
 ## 🛠️ Other Useful Services
 
 - [privnote.com](https://privnote.com/) - Send notes that self-destruct after reading.
-- [bugmenot.com](https://bugmenot.com/) - Shared logins/passwords to access from websites witouth signup.

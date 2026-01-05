@@ -38,6 +38,7 @@
 - [Leak-Lookup](https://leak-lookup.com/) - Breach database with API. (Free & Paid)
 - [Dehashed](https://dehashed.com/) - Powerful breach search engine. (Paid)
 - [Snusbase](https://snusbase.com/) - Credential leaks search with a simple interface. (Paid)
+- [bugmenot.com](https://bugmenot.com/) - Shared logins/passwords to access from websites.
 
 ### 📧 Email / Domain / Phone
 
