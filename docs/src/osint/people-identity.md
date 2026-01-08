@@ -25,7 +25,7 @@
 - [Hunter.io](https://hunter.io/) - Find email addresses by domain.
 - [ip-api.com](https://ip-api.com/) - IP geolocation API.
 
-> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/osint/databases-and-leaks.md)
+> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/osint/databases-&-leaks.md)
 
 ## 🖼️ Image & Face Search
 
@@ -33,6 +33,7 @@
 - [PimEyes](https://pimeyes.com/en) - Face recognition search engine.
 - [Yandex Images](https://ya.ru/) - Powerful reverse image search.
 - [Google Images](https://www.google.com/imghp?hl=EN) - Classic reverse image search.
+- [lenso](https://lenso.ai/en) - AI Reverse Image Search.
 - [InVID](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - Video and image verification plugin.
 - [Berify](https://www.berify.com/) - Reverse image search focused on identifying image duplicates.
 

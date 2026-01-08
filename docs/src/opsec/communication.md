@@ -16,10 +16,15 @@
 
 - [Signal](https://signal.org/fr/)
 - [Telegram](https://telegram.org/)
-- [TOX](https://github.com/TokTok/c-toxcore)
+- [Session](https://getsession.org/)
+- [qTOX](https://qtox.github.io/)
 
 ## 🔀 XMPP
 
 - [creep.im](https://creep.im)
 - [darknet.im](https://darknet.im/)
 - [404 City](https://www.404.city/)
+
+## Sharing
+
+- [CryptPad](https://cryptpad.fr/) - Create documents end-to-end encrypted, with collaboration in real-time (open source).

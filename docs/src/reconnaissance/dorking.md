@@ -7,7 +7,6 @@
 
 - [Dorks collections](https://www.blackhatethicalhacking.com/tools/dorks-collections-list/)
 - [Dorking Lists (Google, X, Shodan)](https://github.com/mathis2001/Dorking)
-- [GoogleHackMasterList.txt](https://gist.githubusercontent.com/AizazZaidee/bb35d65dbbdd7744b26ad977f4ac693b/raw/6d37cdfd08042cd062d442ae21e880ac42cffaa5/GoogleHackMasterList.txt)
 
 ### 🛠️ Tools
 
@@ -18,6 +17,12 @@
 - [dorkbot (Github)](https://github.com/utiso/dorkbot) - Search exploits.
 - [0xdork (Github)](https://github.com/rly0nheart/oxdork)
 - [Katana (Github)](https://github.com/0xStrontium/Katana)
+
+### Wordlist
+
+- [DorkingWordlists](https://github.com/zebbern/DorkingWordlists)
+- [GoogleHackMasterList.txt](https://gist.githubusercontent.com/AizazZaidee/bb35d65dbbdd7744b26ad977f4ac693b/raw/6d37cdfd08042cd062d442ae21e880ac42cffaa5/GoogleHackMasterList.txt)
+- [BugBounty Dorklist](https://github.com/mr23r0/Bug-Bounty-Dorks)
 
 ## Google Dorking
 

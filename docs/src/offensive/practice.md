@@ -9,6 +9,7 @@
 - [Newbie Contest (FR)](https://www.newbiecontest.org/) - Forum, challenges, learning, and more. <Badge type="tip" text="#community"/>
 - [picoCTF](https://picoctf.org/) - Multiple challenges, difficulties and categories. <Badge type="tip" text="#community"/>
 - [VulnHub](https://www.vulnhub.com/) - Downloadable VMs and ready to be hacked. <Badge type="danger" text="#advanced"/>
+- [Vulhub](https://vulhub.org/) | (github)[https://github.com/vulhub/vulhub/] - Pre-built vulnerable environments based on docker.
 - [PentesterLab](https://pentesterlab.com/exercises/) - Challenges based on CVEs, CWEs, and more **(Freemium)**. <Badge type="info" text="#certification"/><Badge type="danger" text="#advanced"/>
 - [CTFtime](https://ctftime.org/) - Learning, write-ups, classements, teams.
 - [RingZer0CTF](https://ringzer0ctf.com/) - Challenges (Linux, SysAdmin, Low Level and more).

@@ -1,4 +1,4 @@
-# 🕶️ Anonymity Tools
+# 🕶️ Temporary Tools
 
 > [!NOTE]
 > Tools for protect your identity during a OSINT session. Create identity, use a temporary services (emails, number phones, identity and others)
@@ -7,7 +7,8 @@
 
 ### 📧 Temporary & Disposable Emails
 
-- [maildrop.cc](https://maildrop.cc/) - Temp mail persistent.
+- [cs.email](https://cs.email/)
+- [Yopmail](https://yopmail.com/)
 - [temporary-mail.net](https://www.temporary-mail.net/) | [emailnator.com](https://www.emailnator.com/) - Temp mail with `@gmail.com` email.
 - [guerrillamail.com](https://www.guerrillamail.com/) - Disposable email, auto-expiring.
 - [temp-mail.org](https://temp-mail.org/) - Simple disposable mailbox service.
@@ -22,10 +23,11 @@
 
 ## 📂 Anonymous File Sharing
 
+- [onionshare.org](https://onionshare.org/) - File sharing & hosting via Tor, highly anonymous.
+- [Mozilla send (instances)](https://github.com/timvisee/send-instances/) - MozilaSend fork, these server are hosted by the community.
 - [anonfiles.com](https://anonfiles.com/) - Upload and share files anonymously.
 - [wormhole.app](https://wormhole.app/) - Encrypted file sharing with self-destruct links.
 - [file.pizza](https://file.pizza/) - P2P file sharing directly via browser.
-- [onionshare.org](https://onionshare.org/) - File sharing & hosting via Tor, highly anonymous.
 - [send.vis.ee](https://send.vis.ee/) - Fork of Firefox Send, encrypted & ephemeral file sharing.
 
 ## 🛠️ Other Useful Services

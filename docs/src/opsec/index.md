@@ -1,9 +1,16 @@
-# 🕶️ Operation Security (OPSEC)
+# 🕶️ Operation Security (OpSec)
 
 ## 🔗 Resource & Guide
 
 - [privacytools.io](https://www.privacytools.io/) - Referencing privacy tools by category.
-- [OPSEC Guide](https://whos-zycher.github.io/opsec-guide/) - Guide and resources.
+- [Digital Defense](https://digital-defense.io/) - Personal Security Checklist.
+- [OpSec Guide](https://whos-zycher.github.io/opsec-guide/) - Guide and resources.
+- [Crypto OpSec Roadmap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+
+## Learning
+
+- [OpSec privacy handbook](https://medium.com/@varppi/opsec-privacy-handbook-5e0a012c58f6) - OpSec basics.
+- [How protecting yourself while investigating ?](https://sosintel.co.uk/opsec-in-osint-protecting-yourself-while-investigating/) - Details commonly mistakes.
 
 ## 🕵️ Basic
 
@@ -11,7 +18,7 @@
 
 ### 🧑 Fake Identity Generators
 
-- [fakenamegenerator.com](https://www.fakenamegenerator.com/) - Generate full fake personas.
+- [fakenamegenerator.com](https://www.fakenamegenerator.com/) - Generate full fake person.
 - [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) - AI-generated fake profile pictures.
 - [generated.photos](https://generated.photos/) - Customizable AI fake faces.
 
@@ -41,4 +48,6 @@
 
 ### 💳 Wallets
 
+- [Electrum](https://electrum.org/)
+- [Monero](https://www.getmonero.org/downloads/) - GUI wallets.
 - [Wasabiwallet](https://www.wasabiwallet.io/) - Secure, Silent.
