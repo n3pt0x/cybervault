@@ -3,14 +3,6 @@
 > [!NOTE]
 > Resources, registries, and tools for investigating companies, their directors, their finances, and their connections.
 
-- [🏢 Corporate Intelligence OSINT](#-corporate-intelligence-osint)
-  - [🌍 National Registries](#-national-registries)
-    - [🌐 Multi-country / EU / Global](#-multi-country--eu--global)
-  - [👤 Beneficial Ownership \& Directors](#-beneficial-ownership--directors)
-  - [💰 Financial \& Sanctions Data](#-financial--sanctions-data)
-  - [⚖️ Legal \& Compliance](#️-legal--compliance)
-  - [🔗 Other Resources](#-other-resources)
-
 ## 🌍 National Registries
 
 - 🇺🇸 [SEC EDGAR](https://www.sec.gov/edgar.shtml) - US company filings (Free)
