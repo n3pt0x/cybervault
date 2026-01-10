@@ -47,10 +47,8 @@
 - [spys.one](http://spys.one/en/) - Large proxy list with advanced filters.
 - [free-proxy.cz](http://free-proxy.cz/) - Updated proxy lists by type & country.
 
-## Servers
+## 🖧 Servers
 
 - [privex](https://www.privex.io/) - VPS.
 - [1984](https://1984.hosting/) - VPS.
-- [infinityfree](infinityfree.com) - Free web server to host a php site.
-
-### DNS
+- [infinityfree](https://infinityfree.com/) - Free web server to host a php site.

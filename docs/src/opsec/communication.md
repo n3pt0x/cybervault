@@ -25,6 +25,6 @@
 - [darknet.im](https://darknet.im/)
 - [404 City](https://www.404.city/)
 
-## Sharing
+## 📤 Sharing
 
 - [CryptPad](https://cryptpad.fr/) - Create documents end-to-end encrypted, with collaboration in real-time (open source).

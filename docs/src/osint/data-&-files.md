@@ -1,4 +1,4 @@
-# 📑 Data & Files (OSINT)
+# 📑 Data & Files
 
 ## 🔢 Metadata Analysis
 
