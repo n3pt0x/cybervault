@@ -2,7 +2,7 @@
 
 ## Resources
 
-- [Black Hills InfoSec](https://www.blackhillsinfosec.com/) - Blog, resources,
+- [Black Hills InfoSec](https://www.blackhillsinfosec.com/) - Blog, resources.
 
 ### 🗂️ Inventory
 

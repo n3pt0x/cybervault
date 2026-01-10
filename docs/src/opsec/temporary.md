@@ -9,7 +9,7 @@
 
 - [cs.email](https://cs.email/)
 - [Yopmail](https://yopmail.com/)
-- [temporary-mail.net](https://www.temporary-mail.net/) | [emailnator.com](https://www.emailnator.com/) - Temp mail with `@gmail.com` email.
+- [temporary-mail.net](https://www.temporary-mail.net/) | [Temp Gmail (@gmail)](https://www.mailticking.com/) | [emailnator.com](https://www.emailnator.com/) - Temp mail with `@gmail.com` email.
 - [guerrillamail.com](https://www.guerrillamail.com/) - Disposable email, auto-expiring.
 - [temp-mail.org](https://temp-mail.org/) - Simple disposable mailbox service.
 
