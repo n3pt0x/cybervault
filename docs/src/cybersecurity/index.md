@@ -1,6 +1,6 @@
-# Offensive
+# 👾 CyberSecurity
 
-## Resources
+## 🔗 Resources
 
 - [Black Hills InfoSec](https://www.blackhillsinfosec.com/) - Blog, resources.
 

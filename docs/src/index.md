@@ -6,4 +6,4 @@ category: intro
 
 # CyberVault
 
-CyberVault is a repository to references severals resources, tools, apps and more abot cybersecurity.
+CyberVault is a repository to references severals resources, tools, apps and more about CyberSecurity, InfoSec, OpSec and more.

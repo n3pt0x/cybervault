@@ -1,6 +1,6 @@
 # 🎯 Practice
 
-## 🚩 CTF (Challenges - Box)
+## 🚩 CTF
 
 - [Root-me](https://www.root-me.org/) - French cyber community, this platform offers multiple categories (Web, Network, Crypto, Realist and more).<Badge type="tip" text="#self-learning"/><Badge type="tip" text="#community"/><Badge type="danger" text="#advanced"/>
 - [HackTheBox](https://www.hackthebox.com/) - Challenges / courses, the boxs are for pentesters confirmed **(Freemium)**. <Badge type="info" text="#certification"/><Badge type="danger" text="#advanced"/>
@@ -8,11 +8,18 @@
 - [CryptoHack](https://cryptohack.org/) - Fun platform to practice modern cryptography. <Badge type="tip" text="#cryptography"/>
 - [Newbie Contest (FR)](https://www.newbiecontest.org/) - Forum, challenges, learning, and more. <Badge type="tip" text="#community"/>
 - [picoCTF](https://picoctf.org/) - Multiple challenges, difficulties and categories. <Badge type="tip" text="#community"/>
-- [VulnHub](https://www.vulnhub.com/) - Downloadable VMs and ready to be hacked. <Badge type="danger" text="#advanced"/>
-- [Vulhub](https://vulhub.org/) | (github)[https://github.com/vulhub/vulhub/] - Pre-built vulnerable environments based on docker.
 - [PentesterLab](https://pentesterlab.com/exercises/) - Challenges based on CVEs, CWEs, and more **(Freemium)**. <Badge type="info" text="#certification"/><Badge type="danger" text="#advanced"/>
 - [CTFtime](https://ctftime.org/) - Learning, write-ups, classements, teams.
 - [RingZer0CTF](https://ringzer0ctf.com/) - Challenges (Linux, SysAdmin, Low Level and more).
+- [Tower CTF](https://www.tower-ctf.fr/)
+- [Flag4jobs](https://flag4jobs.com/) - Multiple challenges about cybersecurity use-cases.
+- [Hackropole](https://hackropole.fr/fr/)
+
+### Labs
+
+- [Game Of Active Directory (GOAD)](https://orange-cyberdefense.github.io/GOAD/#) - Orange Cyberdefense.
+- [VulnHub](https://www.vulnhub.com/) - Downloadable VMs and ready to be hacked. <Badge type="danger" text="#advanced"/>
+- [Vulhub](https://vulhub.org/) | (github)[https://github.com/vulhub/vulhub/] - Pre-built vulnerable environments based on docker.
 
 ## 💸 BugBounty
 
