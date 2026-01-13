@@ -11,13 +11,14 @@
 - [Yopmail](https://yopmail.com/)
 - [temporary-mail.net](https://www.temporary-mail.net/) | [Temp Gmail (@gmail)](https://www.mailticking.com/) | [emailnator.com](https://www.emailnator.com/) - Temp mail with `@gmail.com` email.
 - [guerrillamail.com](https://www.guerrillamail.com/) - Disposable email, auto-expiring.
-- [temp-mail.org](https://temp-mail.org/) - Simple disposable mailbox service.
 
 ### 📱 Temporary Phone Numbers
 
-- [hushed](https://hushed.com/) - Senc, received.
-- [anonymoustext.com](https://www.anonymoustext.com/) - Temporary secure SMS.
-- [online-sim.pro](https://online-sim.pro) - Receive SMS anonymously.
+- [hushed](https://hushed.com/) - Send, received.
+- [anonymoustext.com](https://www.anonymoustext.com/)
+- [online-sim.pro](https://online-sim.pro)
+- [onlinesim.io](https://onlinesim.io/)
+- [receivesms.co](https://receivesms.co/)
 - [receive-sms.org](https://receive-sms.org/) - Free temp phone numbers.
 - [sms24.me](https://sms24.me/) - Large list of public numbers for disposable use.
 

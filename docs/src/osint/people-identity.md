@@ -49,4 +49,4 @@
 - [FamilyTreeNow](https://www.familytreenow.com/) - Public records lookup (free).
 - [Whitepages](https://www.whitepages.com/) - People lookup & public records.
 - [BeenVerified](https://www.beenverified.com/) - Identity & people search (paid).
-- [filae.com](https://www.filae.com/) - Genealogy tools via multiples informations (born before 1920).
+- [filae.com](https://www.filae.com/) - Genealogy tools via multiple informations (born before 1920).

@@ -5,7 +5,7 @@
 - [APTnotes](https://github.com/aptnotes/data) - Repository of public resources related to malicious activity associated with APT group.
 - [Orange Cyber Defense MindMaps](https://orange-cyberdefense.github.io/ocd-mindmaps/)
 
-## 📑 Documentation / Wiki
+## 🆆 Documentation / Wiki
 
 - [HackTricks](https://book.hacktricks.wiki/en/index.html) - Pentesting methods, exploits, and more.
 - [Aldeid](https://www.aldeid.com/wiki/Main_Page) - Pentesting, Threat Hunting,

@@ -1,11 +1,10 @@
 # 🕶️ Operation Security (OpSec)
 
-## 🔗 Resource & Guide
+## 🔗 Resource
 
+- [start.me](https://start.me/p/BnrKpe/02-opsec-online-privacy) - Tools listing.
 - [privacytools.io](https://www.privacytools.io/) - Referencing privacy tools by category.
 - [Digital Defense](https://digital-defense.io/) - Personal Security Checklist.
-- [OpSec Guide](https://whos-zycher.github.io/opsec-guide/) - Guide and resources.
-- [Crypto OpSec Roadmap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 
 ## Learning
 
@@ -16,7 +15,7 @@
 
 - [Riseup](https://riseup.net/) - Privacy-focused services (VPN, email, chat).
 
-### 🧑 Fake Identity Generators
+### 🧑 SockPuppet
 
 - [fakenamegenerator.com](https://www.fakenamegenerator.com/) - Generate full fake person.
 - [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) - AI-generated fake profile pictures.

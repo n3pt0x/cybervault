@@ -2,7 +2,7 @@
 
 ## 🔍 Information gathering
 
-- [osint.sh](https://osint.sh/) - Multiples Tools to enum DNS.
+- [osint.sh](https://osint.sh/) - Several Tools to enum DNS.
 - [crt.sh](https://crt.sh/) - Search Certificat and subdomain enumeration.
 - [threatcrowd.org](http://ci-www.threatcrowd.org/) - DNS and Subdomain Enumaration + Cartography.
 - [dnsdumpster.com](https://dnsdumpster.com/) - DNS and Subdomain Recon.

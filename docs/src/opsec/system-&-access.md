@@ -20,9 +20,10 @@
 > [!NOTE]
 > Dorking filters are available in most browsers.
 
+- [Search Engine list](https://start.me/p/b56G5Q/search-engines)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Startpage](https://www.startpage.com/sp/search) - Anonymous veiw (mask DNS, IP, Location, User-Agent).
-- [Searx](https://searx.space/) - Multiples servers are available, can be self-hostable.
+- [Searx](https://searx.space/) - Multiple servers are available, can be self-hostable.
 - [swisscows](https://swisscows.com/)
 - [gibiru](https://gibiru.com/)
 - [kagi](https://kagi.com/)
