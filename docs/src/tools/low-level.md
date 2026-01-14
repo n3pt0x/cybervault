@@ -13,7 +13,10 @@
 
 ## Forensic
 
-- [acropalypse](https://acropalypse.app/) / [acropadetect](https://lordofpipes.github.io/acropadetect/) - **(CVE-2023-21036)**
+- [Forensic Tools list](https://tools.jeffprod.com/).
+- [Awesome Forensic (list)](https://github.com/cugu/awesome-forensics)
+- [Volatility 3](https://github.com/volatilityfoundation/volatility3) / [Cheatsheet](https://hacktivity.fr/volatility-3-cheatsheet/) - Framework for extracting digital artifacts from RAM.
+- [Hindsight](https://github.com/obsidianforensics/hindsight) - Web Browser forensics for Chromium.
 
 ## Stegano
 

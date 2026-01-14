@@ -15,7 +15,7 @@
 
 - [Nightmare](https://guyinatuxedo.github.io/) - Binary exploitation / reverse engineering course based around ctf challenges.
 
-## Information Security (InfoSec)
+## 🛡️ Information Security (InfoSec)
 
 - [InfoSec Reference](https://rmusser.net/docs/#/) - Several categories & references about infosec (Very complete).
 - [InfoSec House](https://infosec.house/) - Several resources about cybersecurity.

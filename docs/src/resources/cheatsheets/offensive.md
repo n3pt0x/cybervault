@@ -23,7 +23,7 @@
 - [Web pentesting handbook](https://0xn3va.gitbook.io/application-security-handbook).
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) Pentesting Guide.
 
-## Cheatsheet
+## 📝 Cheatsheet
 
 - [Applications Cheatsheets](https://0xn3va.gitbook.io/cheat-sheets/) - Containers, Framwork, CI/CD, Cloud, Mobile and more.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Payloads Manuscript.

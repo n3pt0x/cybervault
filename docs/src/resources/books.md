@@ -10,7 +10,7 @@
 - [CyberSecurity-Books](https://github.com/pathakabhi24/CyberSecurity-Books) - Many Books for several categories.
 - [Ebooks about CyberSecurity](https://docs.gnet0.com/ebooks/) - (Coding, Cryptanalyse, Hardware)
 
-## Some Books
+## 📚 Some Books
 
 > [!NOTE]
 > Books recommanded to learn cybersecurity.

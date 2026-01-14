@@ -5,7 +5,7 @@
 - [Shodan](https://shodan.io) - Internet-wide device search / [Shodan API](https://developer.shodan.io/api/clients) (cli tool)
 - [Censys](https://search.censys.io) - Certs & IP visibility.
 - [FOFA](https://en.fofa.info) - Search Engine.
-- [IVRE](https://ivre.rocks/) - Open source search engine.
+- [IVRE](https://ivre.rocks/) - Network recon framework (active + passive).
 - [LeakIX](https://leakix.net/)
 - [ZoomeYe](https://www.zoomeye.ai/) - Internet Search Engine (CVE, headers).
 - [Google DatasetSearch](https://datasetsearch.research.google.com/) - Google datasets search engine.
