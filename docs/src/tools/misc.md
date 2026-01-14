@@ -1,12 +1,17 @@
 # 📦 Miscellaneous
 
-## Password
+## 🔐 Default Password
 
-- [Default Password list](https://default-password.info/)
+- [DefaultCreds (software / hardware)](https://github.com/ihebski/DefaultCreds-cheat-sheet) - CLI tools for research.
+- [Seclists (software)](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Default-Credentials)
+- [RedOracle](https://redoracle.com/PasswordDB/) - Router, Switch & network hardware.
+- [Default Router Password](https://default-password.info/) - [Default Router Password](https://www.speedguide.net/default_passwords.php) - [Default Router Password](https://www.routerpasswords.com/)
+- [Default Password](https://github.com/InfosecHouse/InfosecHouse/tree/main/passwords) - Software / Hardware.
 
-### Wordlist
+### 🔠 Wordlist
 
 - [Weakpass](https://weakpass.com/wordlists) - Several wordlists.
+- [Seclists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists.
 
 ### Brute-Force
 

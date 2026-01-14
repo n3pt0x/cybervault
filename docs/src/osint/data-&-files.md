@@ -5,17 +5,16 @@
 ### 🖼️ Images
 
 - [Exiftool (online)](https://exif.tools/) | [Exiftool (CLI)](https://exiftool.org) – Extract metadata from images.
-- [FotoForensics](https://fotoforensics.com/) – Analyze image metadata & detect hidden messages.
 - [Jimpl](https://jimpl.com/) – Online metadata analyzer.
 
 ### 📁 Documents
 
 - [PDF Examiner](https://www.pdf-online.com/osa/verify.aspx) – Extract PDF metadata and check security.
-- [Docinfo](https://www.getdocinfo.com/) – Extract Word / Excel metadata.
+- [ExtractMetadata](https://www.extractmetadata.com/) - Extract metadata from various files type.
 
 ### 🎵 Audio / Video
 
-- [MediaInfo](https://mediaarea.net/en/MediaInfo) – Technical info on media files.
+- [AudaCity](https://www.audacityteam.org/) - [WavaCity (online version)](https://wavacity.com/)
 - [ffprobe](https://ffmpeg.org/ffprobe.html) – CLI tool to analyze audio/video files.
 
 ## 📦 Archives & Others
