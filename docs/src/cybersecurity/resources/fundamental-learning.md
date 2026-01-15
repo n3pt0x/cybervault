@@ -2,8 +2,8 @@
 
 ## 📖 Learning by Doing
 
-- [antisyphon training](https://www.antisyphontraining.com/course-catalog/) - Soc, Red Team, Blue Team, Purple Team, Forensics and more.
-- [Maldev Academy](https://maldevacademy.com/) - MAlware developpement, Red & Blue team course.
+- [antisyphon training](https://www.antisyphontraining.com/course-catalog/) - Soc, Red / Blue / Purple Team, Forensics and more.
+- [Maldev Academy](https://maldevacademy.com/) - Malware developpement, Red / Blue team course.
 - [OverTheWire](https://overthewire.org/wargames/) - Learn through guided exercices linux, web, BoF and more.
 - [pwn.college](https://pwn.college) - Cybersecurity learning site with course & challenges.
 - [PortSwigger](https://portswigger.net/web-security/all-topics) - Learn web pentesting through labs exercices and courses. <Badge type="tip" text="#web"/>

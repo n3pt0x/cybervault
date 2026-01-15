@@ -17,9 +17,3 @@
 
 - [zoomeye.org](https://www.zoomeye.org/) - IoT & network search engine.
 - [Insecam](http://www.insecam.org) - Live cameras directory.
-
-### 🕷️ Search (crawlers / bots)
-
-- [TorBot (Github)](https://github.com/DedSecInside/TorBot) - CLI Tools to crawl on darkweb.
-- [onionscan (Github)](https://github.com/s-rah/onionscan) - Tor Crawler.
-- [pryingdeep (Github)](https://github.com/iudicium/pryingdeep) - OSINT gathering tool for the dark/clear web.

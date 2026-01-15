@@ -1,8 +1,10 @@
 # 🗺️ OpSec Guide
 
+- [Opsec Guide & Practice](https://monerica.com/onion-only/education/opsec-guide)
 - [OpSec Guide & Resources](https://whos-zycher.github.io/opsec-guide/)
 - [Crypto OpSec Roadmap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 - [Fundamentakls OPSEC for Red Teams](https://www.blackhillsinfosec.com/wp-content/uploads/2021/03/SLIDES_OPSECFundamentalsRemoteRedTeams-1.pdf)
+- [InfoSec, OpSec Essentials](https://kenharris.io/)
 
 ## 📖 Handbook
 
@@ -12,4 +14,4 @@
 
 ## Misc
 
-- [DNS over HTTPS vs TLS](https://www.catchpoint.com/http2-vs-http3/dns-over-https-vs-tls) / [Cloudflare article](https://www.cloudflare.com/learning/dns/dns-over-tls/)
+- [DNS over HTTPS vs TLS](https://www.catchpoint.com/http2-vs-http3/dns-over-https-vs-tls)
