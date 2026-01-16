@@ -1,18 +1,5 @@
 # 💻👾 Cybersecurity News
 
-## 📌 General
-
-- [blackhatethicalhacking.com](https://www.blackhatethicalhacking.com/) - Several resources (Articles, Tools, Infosec News).
-- [isc.sans.edu](https://isc.sans.edu/) - Podcast, Tools, Datas collegtings with honey pots and others.
-- [InfoCon](https://infocon.org/) - Documentaries, podcast, word-lists and more. <Badge type="info" text="#learning"/>
-
-## 🗫 Forum
-
-- [r/cybersecurity](https://www.reddit.com/r/cybersecurity/) - Reddit cybersecurity forum.
-- [news.ycombinator.com](https://news.ycombinator.com/) - News about cybersecurity.
-- [LawrenceSystems](https://forums.lawrencesystems.com/) - Forum (Cyber & Hacking, network, dev, tech news).
-- [Newbie Contest (FR)](https://www.newbiecontest.org/) - Forum, challenges, learning, and more.
-
 ## 📰 Articles - News
 
 - [Zataz](https://www.zataz.com/) - <Badge type="info" text="#news"/>
@@ -61,6 +48,7 @@
 - [@HackADay](https://www.youtube.com/@hackaday)
 - [@NullByteWHT](https://www.youtube.com/@NullByteWHT)
 - [@\_JohnHammond](https://www.youtube.com/@_JohnHammond)
+- [@KenHarrisio](https://www.youtube.com/@KenHarrisio)
 
 ### 🎙️ Podcast
 

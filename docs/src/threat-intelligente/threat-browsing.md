@@ -1,10 +1,10 @@
-# Threat Browsing
+# 🌐 Threat Browsing
 
-## Resources
+## 🔗 Resources
 
 - [Onion Directory](https://start.me/p/0Nmojr/onion-directory)
 
-## Search Engine
+## 🔎 Search Engine
 
 - [Ahmia (Tor)](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/)
 - [Tor Link](https://tor.link/)

@@ -4,7 +4,6 @@
 
 - [osint.sh](https://osint.sh/) - Multiple tools OSINT website.
 - [circl.lu](https://lookyloo.circl.lu) - Capture web site & cartography website. Post scanning, possible to analyse with multiple tools.
-- [devina.io](https://devina.io/) - Multiple tools OSINT website.
 - [haveïbeensquattəd¿](https://haveibeensquatted.com/) - Check if a domain has been typosquatted.
 
 ## ⚙️ Automation & Toolkits

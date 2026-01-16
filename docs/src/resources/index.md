@@ -2,6 +2,9 @@
 
 ## 👾 Cybersecurity
 
+- [blackhatethicalhacking.com](https://www.blackhatethicalhacking.com/) - Several resources (Articles, Tools, Infosec News).
+- [isc.sans.edu](https://isc.sans.edu/) - Podcast, Tools, Datas collegtings with honey pots and others.
+- [InfoCon](https://infocon.org/) - Documentaries, podcast, word-lists and more. <Badge type="info" text="#learning"/>
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Several list of cheatsheet repertoried by category.
 
 ### 🗺️ Inventory & Roadmap

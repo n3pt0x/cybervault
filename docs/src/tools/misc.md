@@ -1,5 +1,11 @@
 # 📦 Miscellaneous
 
+## 🛠️ Some Tools
+
+- [devina.io](https://devina.io/) - Several tools (Network, Security, Website, Code, Data).
+- [semgrep](https://github.com/semgrep/semgrep) - Analysis tool that searches code, finds bugs, and enforces secure guardrails.
+- [QuickRef](https://quickref.me/) - Some cheatsheets (programming, database, linux cli)
+
 ## 🔐 Default Password
 
 - [DefaultCreds (software / hardware)](https://github.com/ihebski/DefaultCreds-cheat-sheet) - CLI tools for research.
@@ -13,6 +19,6 @@
 - [Weakpass](https://weakpass.com/wordlists) - Several wordlists.
 - [Seclists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists.
 
-### Brute-Force
+### ⛏️ Brute-Force
 
 - [CrackStation](https://crackstation.net/)

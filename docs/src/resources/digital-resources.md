@@ -17,3 +17,10 @@
 
 - [University of Cambridge](https://www.cl.cam.ac.uk/archive/rja14/book.html) - Security Engineering.
 - [HackNotes Linux & Unix Security](https://theswissbay.ch/pdf/Gentoomen%20Library/Security/McGraw.Hill.HackNotes.Linux.and.Unix.Security.Portable.Reference.eBook-DDU.pdf)
+
+## 🖧 Torrent
+
+- [uTorrent](https://www.utorrent.com/) - Web torrent.
+- [qBittorrent](https://www.qbittorrent.org/) - Client torrent.
+- [webTorrent](https://webtorrent.io/) - Hosted your own Torrent website.
+- [Instant.io](https://instant.io/) - Share & download torrent from web.

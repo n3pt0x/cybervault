@@ -1,6 +1,6 @@
 # 👾 Threat Intelligente
 
-## Resources
+## 🔗 Resources
 
 ## 🌐 Platforms / Frameworks
 
