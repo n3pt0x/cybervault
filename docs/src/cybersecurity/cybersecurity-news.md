@@ -1,5 +1,9 @@
 # 💻👾 Cybersecurity News
 
+## General
+
+- [Wired](https://www.wired.com/category/security/) - World news related to cybersecurity.
+
 ## 📰 Articles - News
 
 - [Zataz](https://www.zataz.com/) - <Badge type="info" text="#news"/>

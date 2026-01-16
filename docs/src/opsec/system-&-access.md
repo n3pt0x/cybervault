@@ -41,6 +41,7 @@
 
 - [Mullvad](https://mullvad.net/) - Secure & Privacy.
 - [ProtonVPN](https://protonvpn.com/) - Secure & Privacy.
+- [IVPN](https://www.ivpn.net/en/)
 
 ### 🔀 Proxy
 
