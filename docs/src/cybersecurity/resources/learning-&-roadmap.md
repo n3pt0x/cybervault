@@ -1,4 +1,22 @@
-# 💻👾 Fundamental Cybersecurity Learning
+# 💻👾 Cybersecurity Learning & Roadmap
+
+## 🗺️ Roadmap
+
+- [Security Guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/) - Roadmap of cybersecurity learning.
+- [Cyber Repo](https://github.com/Berkanktk/CyberSecurity) - Cybersecurity learning path.
+- [Roadmap for Hacker](https://github.com/pathakabhi24/Roadmap-for-Hacker) - Good introduction for pentesting.
+
+## 📚 Course
+
+- [Roppers](https://www.roppers.org/collections) - Learn security, techniques, networking, fundamentals.
+- [TCM Security Academy](https://academy.tcm-sec.com/) - Cybersecurity Courses (Foundational, Red / Blue Team).
+- [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more) **(Freemium)**.
+- [codecademy](https://www.codecademy.com/catalog/subject/cybersecurity) - Enterprise, DevSecOps, Fundamentals.
+- [SANS](https://www.sans.org/) - Free resources, courses, learning paths (beginner to confirmed).
+
+### 💡 IOT
+
+- [Pentesting](https://elhacker.info/ebooks%20Joas/Pentest%20IoT%20and%20OT%20-%20Overview.pdf) - Listing resources about pentest IOT & OT.
 
 ## 📖 Learning by Doing
 
@@ -15,15 +33,3 @@
 - [CyberDefenders](https://cyberdefenders.org/) - Blue Teams plateform to train and to learn **(Freemium)**.
 - [Blueteam Labs](https://blueteamlabs.online/) - Blue Team Labs Online **(Freemium)**.
 - [LetsDefend](https://letsdefend.io/) - Hands-On Blue Team Training **(Freemium)**.
-
-## 📚 Course
-
-- [Roppers](https://www.roppers.org/collections) - Learn security, techniques, networking, fundamentals.
-- [TCM Security Academy](https://academy.tcm-sec.com/) - Cybersecurity Courses (Foundational, Red Team, Blue Team).
-- [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more) **(Freemium)**.
-- [codecademy](https://www.codecademy.com/catalog/subject/cybersecurity) - Enterprise, DevSecOps, Fundamentals.
-- [SANS](https://www.sans.org/) - Free resources, courses, learning paths (beginner to confirmed).
-
-### IOT
-
-- [Pentesting](https://elhacker.info/ebooks%20Joas/Pentest%20IoT%20and%20OT%20-%20Overview.pdf) - Listing resources about pentest IOT & OT.

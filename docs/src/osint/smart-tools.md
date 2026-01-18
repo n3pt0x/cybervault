@@ -6,6 +6,11 @@
 - [circl.lu](https://lookyloo.circl.lu) - Capture web site & cartography website. Post scanning, possible to analyse with multiple tools.
 - [haveïbeensquattəd¿](https://haveibeensquatted.com/) - Check if a domain has been typosquatted.
 
+### 📦 Archives
+
+- [Wayback Machine](https://archive.org/web) - Browse historical snapshots of websites.
+- [Archive.today](https://archive.ph/) - Save a page instantly for future reference.
+
 ## ⚙️ Automation & Toolkits
 
 - [sherlock](https://github.com/sherlock-project/sherlock) - Find usernames across social media.

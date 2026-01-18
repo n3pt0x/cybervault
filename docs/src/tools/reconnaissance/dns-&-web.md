@@ -25,9 +25,3 @@
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Vulnerabilities scanner, customizable.
 - [CRLFsuite Scanner](https://github.com/Raghavd3v/CRLFsuite)
 - [Corsfix](https://corsfix.com/tools/cors-tester) - Check CORS configuration.
-
-### 🔎 Fuzzing
-
-- [ffuf](https://github.com/ffuf/ffuf)
-- [wfuzz](https://github.com/xmendez/wfuzz)
-- [gobuster](https://github.com/OJ/gobuster)

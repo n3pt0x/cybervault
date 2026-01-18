@@ -1,4 +1,4 @@
-# 🏢 Corporate Intelligence OSINT
+# 🏢 Corporate Intelligence
 
 > [!NOTE]
 > Resources, registries, and tools for investigating companies, their directors, their finances, and their connections.
@@ -7,7 +7,7 @@
 
 - 🇺🇸 [SEC EDGAR](https://www.sec.gov/edgar.shtml)
 - 🇬🇧 [Companies House](https://find-and-update.company-information.service.gov.uk/)
-- 🇫🇷 [Infogreffe](https://www.infogreffe.fr/) - **(Freemium)**.
+- 🇫🇷 [Societe](https://www.societe.com) / [Infogreffe](https://www.infogreffe.fr/) - **(Freemium)**.
 - 🇩🇪 [Handelsregister](https://www.handelsregister.de/)
 - 🇨🇦 [Corporations Canada](https://ised-isde.canada.ca/site/corporations-canada/en)
 
@@ -16,7 +16,6 @@
 - [OpenCorporates](https://opencorporates.com/) - Global company registry aggregator **(Freemium)**.
 - [European Business Register (EBR)](https://ebr.org/) - Network of official EU business registries **(Paid)**.
 - [GLEIF (Global LEI Index)](https://search.gleif.org/#/search/) - Legal Entity Identifiers (LEI) worldwide.
-- [EU Transparency Register](https://ec.europa.eu/transparencyregister/public/homePage.do) - Declared lobbies & organizations in EU.
 
 ## 👤 Beneficial Ownership & Directors
 

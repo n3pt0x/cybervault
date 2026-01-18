@@ -27,7 +27,6 @@
 
 - [bitwarden](https://bitwarden.com/) - CLI, Cloud & Desktop.
 - [Proton Pass](https://proton.me/fr/pass) - Desktop, Cloud.
-- [KeePass](https://keepass.info/) - Desktop & Portable.
 - [KeePassXC](https://keepassxc.org/) - Desktop & Portable.
 
 ### 🔑 MFA Apps

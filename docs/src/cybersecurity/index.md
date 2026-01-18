@@ -1,11 +1,8 @@
-# 👾 CyberSecurity
+# 👾 Cybersecurity
 
 ## 🔗 Resources
 
+- [blackhatethicalhacking.com](https://www.blackhatethicalhacking.com/) - Several resources (Articles, Tools, Infosec News).
+- [isc.sans.edu](https://isc.sans.edu/) - Podcast, Tools, Datas collegtings with honey pots and others.
+- [InfoCon](https://infocon.org/) - Documentaries, podcast, word-lists and more. <Badge type="info" text="#learning"/>
 - [Black Hills InfoSec](https://www.blackhillsinfosec.com/) - Blog, resources.
-
-### 🗂️ Inventory
-
-- [inventory](https://inventory.raw.pm/resources.html) - Inventory & list of several resources, tools.
-- [InfoCon](https://infocon.org/) - CVE, tools, skills, word-lists and more.
-- [gnucitizen](https://www.gnucitizen.org/)

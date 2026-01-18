@@ -1,6 +1,6 @@
 # 💻👾 Cybersecurity News
 
-## General
+## 📌 General
 
 - [Wired](https://www.wired.com/category/security/) - World news related to cybersecurity.
 
@@ -59,3 +59,4 @@
 - [La French Connection](https://securite.fm/)
 - [TheCyberWire](https://thecyberwire.com/)
 - [Hack'n Speak](https://www.podchaser.com/podcasts/hackn-speak-1787627)
+- [Darknet Diaries](https://darknetdiaries.com)

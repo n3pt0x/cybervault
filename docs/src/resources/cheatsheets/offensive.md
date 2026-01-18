@@ -2,19 +2,20 @@
 
 ## 🗂️ Resources
 
-- [APTnotes](https://github.com/aptnotes/data) - Repository of public resources related to malicious activity associated with APT group.
-- [Orange Cyber Defense MindMaps](https://orange-cyberdefense.github.io/ocd-mindmaps/)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Several list of cheatsheet repertoried by category.
+- [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - Pentest Tools, resources, OSINT, and much more.
+- [Awesome Red Teaming](https://github.com/0xMrNiko/Awesome-Red-Teaming) - (Scan, Evasion, Hosting, Pivot, Post Exploit & much more).
+- [Awesome Red Teaming](https://github.com/SecuritySeizin/Awesome-Red-Teaming-1) - (Lateral Movement, PrivEsc, Obfuscation, Evasion & Malwares and much more).
+- [Orange Cyber Defense MindMaps](https://orange-cyberdefense.github.io/ocd-mindmaps/) - AD mindmap.
 
 ## 🆆 Documentation / Wiki
 
-- [HackTricks](https://book.hacktricks.wiki/en/index.html) - Pentesting methods, exploits, and more.
+- [HackTricks](https://book.hacktricks.wiki/en/index.html) - Pentesting methods, exploits, and much more.
+- [xapax.github.io](https://xapax.github.io/security/) - Security documentation (Web, Network, AD, Post Exloit and much more).
 - [Aldeid](https://www.aldeid.com/wiki/Main_Page) - Pentesting, Threat Hunting,
-- [xapax.github.io](https://xapax.github.io/security/) - Security documentation (Basic, Web, Network, AD and more).
 
 ### ⚙️ Tools
 
-- [cheat.sh](https://cheat.sh/) - Cheatsheets on the use of tools.
-- [Kali Tool Documention](https://www.kali.org/tools/)
 - [Metasploit](https://docs.metasploit.com/)
 
 ## 📖 Handbook (Learning)

@@ -1,4 +1,4 @@
-# 🔎 People / Identity OSINT
+# 🔎 People / Identity
 
 ## 🧰 Comprehensive OSINT Tools
 
