@@ -16,7 +16,7 @@
 
 ## 📧 Email / Username / Phone
 
-- [Maigret](https://github.com/soxoj/maigret) - Maigret collects a dossier on a person by username only.
+- [Maigret](https://github.com/soxoj/maigret) - Collects a directory on a person by username only.
 - [Holehe (GitHub)](https://github.com/megadose/holehe) - Check if email is registered on popular platforms.
 - [enola](https://github.com/TheYahya/enola) - This is [Sherlock](https://github.com/sherlock-project/sherlock) sister.
 - [emailrep.io](https://emailrep.io/) - Email reputation and OSINT scoring.
@@ -46,7 +46,7 @@
 
 ## 🏠 Public Records & Background Checks
 
-- [FamilyTreeNow](https://www.familytreenow.com/) - Public records lookup (free).
+- [FamilyTreeNow](https://www.familytreenow.com/) - Public records lookup.
 - [Whitepages](https://www.whitepages.com/) - People lookup & public records.
-- [BeenVerified](https://www.beenverified.com/) - Identity & people search (paid).
+- [BeenVerified](https://www.beenverified.com/) - Identity & people search. **(paid)**
 - [filae.com](https://www.filae.com/) - Genealogy tools via multiple informations (born before 1920).

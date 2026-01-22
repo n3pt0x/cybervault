@@ -2,12 +2,13 @@
 
 ## 🔗 Resources & Stuff Collection
 
+- [Resource Discovery Toolkit](https://rr.reuser.biz/)
 - [OSINT Framework](https://osintframework.com/) - Large tree of OSINT tools for websites, social media, documents.
 - [metaosint.github.io](https://metaosint.github.io/chart) – Top tools references by domains.
 - [Bellingcat (resources)](https://bellingcat.gitbook.io/toolkit/) - Gitbook with investigation methods, tools listing (references guides & Handbooks).
 - [Awesome Osint](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome open source intelligence tools and resources.
 - [ohshint.gitbook.io](https://ohshint.gitbook.io/oh-shint-its-a-blog/) - Collection of tools.
-- [Osint Stuff](https://github.com/cipher387/osint_stuff_tool_collection) - Stuff tools collection.
+- [Osint Stuff](https://github.com/cipher387/osint_stuff_tool_collection) | [start.me](https://start.me/p/b5Aow7/asint_collection) - Stuff tools collection.
 - [start.me](https://start.me/p/vjqXe1/toposint-com) - Resources List (Very complete).
 - [start.me](https://start.me/p/QRENnO/databases) - (Databases (APIs), Government, Occupations, Tools).
 - [start.me](https://start.me/p/rxekAP/osint-research) - Osint / Geoint / SocMint tools collection.

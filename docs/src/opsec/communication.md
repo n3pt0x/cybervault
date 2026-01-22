@@ -27,5 +27,5 @@
 
 ## 📤 Sharing
 
-- [CryptPad](https://cryptpad.fr/) - Create documents end-to-end encrypted, with collaboration in real-time (open source).
+- [CryptPad](https://cryptpad.fr/) - Create documents end-to-end encrypted, with collaboration in real-time.
 - [SecureDrop](https://securedrop.org/) - Share and accept documents securely.

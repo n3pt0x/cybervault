@@ -12,8 +12,7 @@
 
 ### 🤖 AI GeoSpy
 
-- [geospy.net](https://geospy.net) - AI tool for location discovery from images.
-- [geospy.ai](https://app.geospy.ai/) - AI tool for location discovery from images.
+- [geospy.net](https://geospy.net) | [geospy.ai](https://app.geospy.ai/) - AI tool for location discovery from images.
 
 ## ✈️ Transport & Tracking (Flights / Ships / Trains)
 

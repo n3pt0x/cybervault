@@ -1,7 +1,8 @@
 # 📚 Books
 
-## 🗃️ Library
+## 🗃️ Inventory
 
+- [FHMY](https://fmhy.net) - The largest collection of free stuff on the internet.
 - [Welib](https://welib.org/) - Ebook downloader.
 
 ### 👾 CyberSecurity

@@ -2,7 +2,7 @@
 
 ## Resources
 
-- [Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/) - 
+- [Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 ### Guide
 

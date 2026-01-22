@@ -1,10 +1,15 @@
 # 🗺️ OpSec Guide
 
-- [Opsec Guide & Practice](https://monerica.com/onion-only/education/opsec-guide)
+## Bible
+
+- [OPBible](http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/)
+- [Bible](http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/)
+
+## Guide
+
+- [InfoSec, OpSec Essentials](https://kenharris.io/)
 - [OpSec Guide & Resources](https://whos-zycher.github.io/opsec-guide/)
 - [Crypto OpSec Roadmap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
-- [Fundamentakls OPSEC for Red Teams](https://www.blackhillsinfosec.com/wp-content/uploads/2021/03/SLIDES_OPSECFundamentalsRemoteRedTeams-1.pdf)
-- [InfoSec, OpSec Essentials](https://kenharris.io/)
 
 ## 📖 Handbook
 

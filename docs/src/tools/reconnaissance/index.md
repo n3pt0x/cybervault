@@ -6,12 +6,12 @@
 - [Censys](https://search.censys.io) - Certs & IP visibility.
 - [FOFA](https://en.fofa.info) - Search Engine.
 - [IVRE](https://ivre.rocks/) - Network recon framework (active + passive).
-- [LeakIX](https://leakix.net/)
-- [ZoomeYe](https://www.zoomeye.ai/) - Internet Search Engine (CVE, headers).
+- [LeakIX](https://leakix.net/) - Network & Leak scanner.
+- [ZoomEye](https://www.zoomeye.ai/) - Internet Search Engine (CVE, headers).
 - [Google DatasetSearch](https://datasetsearch.research.google.com/) - Google datasets search engine.
 - [MAMONT](https://www.mmnt.ru/int/) - Open FTP Indexer.
 - [Napalm](https://www.searchftps.net/) - Open FTP Indexer.
-- [OpenBuckets](https://openbuckets.io/) - Find exposed buckets (AWS, Azure, IBM, ...)
+- [OpenBuckets](https://openbuckets.io/) - Find exposed buckets (AWS, Azure, IBM and much more)/
 
 ### 💡 IOT & Others
 

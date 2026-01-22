@@ -3,12 +3,12 @@
 ## 🚩 CTF
 
 - [Root-me](https://www.root-me.org/) - French community, several categories (Web, Network, Crypto, Realist and more).<Badge type="tip" text="#self-learning"/><Badge type="tip" text="#community"/><Badge type="danger" text="#advanced"/>
-- [HackTheBox](https://www.hackthebox.com/) - Courses & realist challenges. **(Freemium)**. <Badge type="danger" text="#advanced"/><Badge type="info" text="#certification"/>
-- [TryHackMe](https://tryhackme.com/) - Courses & challenges for **begginner** / **advanced** **(Freemium)**. <Badge type="info" text="#certification"/>
+- [HackTheBox](https://www.hackthebox.com/) - Courses & realist challenges. **(Freemium)** <Badge type="danger" text="#advanced"/><Badge type="info" text="#certification"/>
+- [TryHackMe](https://tryhackme.com/) - Courses & challenges for **begginner** / **advanced**. **(Freemium)** <Badge type="info" text="#certification"/>
 - [CryptoHack](https://cryptohack.org/) - Fun platform to practice modern cryptography.
 - [Newbie Contest (FR)](https://www.newbiecontest.org/) - Forum, challenges, learning, and more. <Badge type="tip" text="#community"/>
 - [picoCTF](https://picoctf.org/) - Multiple challenges, difficulties and categories. <Badge type="tip" text="#community"/>
-- [PentesterLab](https://pentesterlab.com/exercises/) - Exploits CVEs, CWEs, and more **(Freemium)**. <Badge type="info" text="#certification"/><Badge type="danger" text="#advanced"/>
+- [PentesterLab](https://pentesterlab.com/exercises/) - Exploits CVEs, CWEs, and more. **(Freemium)** <Badge type="info" text="#certification"/><Badge type="danger" text="#advanced"/>
 - [CTFtime](https://ctftime.org/) - Learning, write-ups, classements, teams.
 - [RingZer0CTF](https://ringzer0ctf.com/) - Challenges (Linux, SysAdmin, Low Level and more).
 - [Tower CTF](https://www.tower-ctf.fr/) - Learn while having fun. <Badge type="tip" text="#community"/>

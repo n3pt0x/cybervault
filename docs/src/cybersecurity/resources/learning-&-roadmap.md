@@ -10,7 +10,7 @@
 
 - [Roppers](https://www.roppers.org/collections) - Learn security, techniques, networking, fundamentals.
 - [TCM Security Academy](https://academy.tcm-sec.com/) - Cybersecurity Courses (Foundational, Red / Blue Team).
-- [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more) **(Freemium)**.
+- [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more). **(Freemium)**
 - [codecademy](https://www.codecademy.com/catalog/subject/cybersecurity) - Enterprise, DevSecOps, Fundamentals.
 - [SANS](https://www.sans.org/) - Free resources, courses, learning paths (beginner to confirmed).
 
@@ -30,6 +30,6 @@
 
 ### 🔵 Blue Team
 
-- [CyberDefenders](https://cyberdefenders.org/) - Blue Teams plateform to train and to learn **(Freemium)**.
-- [Blueteam Labs](https://blueteamlabs.online/) - Blue Team Labs Online **(Freemium)**.
-- [LetsDefend](https://letsdefend.io/) - Hands-On Blue Team Training **(Freemium)**.
+- [CyberDefenders](https://cyberdefenders.org/) - Blue Teams plateform to train and to learn. **(Freemium)**
+- [Blueteam Labs](https://blueteamlabs.online/) - Blue Team Labs Online. **(Freemium)**
+- [LetsDefend](https://letsdefend.io/) - Hands-On Blue Team Training. **(Freemium)**

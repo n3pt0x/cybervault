@@ -1,7 +1,7 @@
 # 🕶️ Temporary Tools
 
 > [!NOTE]
-> Tools for protect your identity during a OSINT session. Create identity, use a temporary services (emails, number phones, identity and others)
+> Tools for protect your identity during a OSINT session. Create identity, use a temporary services (emails, number phones, identity and others).
 
 ## ⏳ Temporary services
 

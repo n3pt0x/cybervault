@@ -5,14 +5,6 @@
 - [start.me](https://start.me/p/BnrKpe/02-opsec-online-privacy) - Tools listing.
 - [privacytools.io](https://www.privacytools.io/) - Referencing privacy tools by category.
 - [Digital Defense](https://digital-defense.io/) - Personal Security Checklist.
-
-## Learning
-
-- [OpSec privacy handbook](https://medium.com/@varppi/opsec-privacy-handbook-5e0a012c58f6) - OpSec basics.
-- [How protecting yourself while investigating ?](https://sosintel.co.uk/opsec-in-osint-protecting-yourself-while-investigating/) - Details commonly mistakes.
-
-## 🕵️ Basic
-
 - [Riseup](https://riseup.net/) - Privacy-focused services (VPN, email, chat).
 
 ### 🧑 SockPuppet
@@ -49,3 +41,4 @@
 - [Electrum](https://electrum.org/)
 - [Monero](https://www.getmonero.org/downloads/) - GUI wallets.
 - [Wasabiwallet](https://www.wasabiwallet.io/) - Secure, Silent.
+- [Feather Wallet](https://featherwallet.org/) - [Guide](https://docs.featherwallet.org/)

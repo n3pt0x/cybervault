@@ -1,4 +1,4 @@
-# Communities
+# 🌎 Communities
 
 ## 🗫 Forum
 
@@ -11,3 +11,4 @@
 ## 🌐 IRC
 
 - [freenode](https://freenode.net/)
+- [Wiki HackerSpaces](https://wiki.hackerspaces.org/IRC_Channel)

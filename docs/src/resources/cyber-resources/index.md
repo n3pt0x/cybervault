@@ -1,8 +1,9 @@
-# 💻👾 Cybersecurity News
+# 💻👾 Cybersecurity Resources
 
 ## 📌 General
 
 - [Wired](https://www.wired.com/category/security/) - World news related to cybersecurity.
+- [Hackaday](https://hackaday.io/) - Collaborative hardware development community (Courses, Discover, Stack).
 
 ## 📰 Articles - News
 
@@ -17,11 +18,9 @@
 
 ## ✍️ Blog
 
-### 🗞️ News
-
+- [Korben (FR)](https://korben.info) - Multiple news topics (cyber, hardware, developement and more).
 - [globalsecuritymag.fr (FR)](https://www.globalsecuritymag.fr/) - Actuality, exploits, (interviews, investigations).
 - [Open Source Security](https://opensourcesecurity.io/).
-- [Korben (FR)](https://korben.info) - Multiple news topics (cyber, hardware, developement and more).
 
 ### 📝 Articles & Posts for Learning
 
@@ -35,28 +34,3 @@
 - [0xdf](https://0xdf.gitlab.io/) - CTF write-up.
 - [codelivly](https://codelivly.com/blog/)
 - [hacklivly](https://hacklivly.com/)
-
-## 📺 Media
-
-- [Security Creators list](https://securitycreators.video/)
-
-### 🌍 Social Media
-
-- [Infosec.Pub](https://infosec.pub/)
-  - [c/hackernews](https://infosec.pub/c/hackernews@lemmit.online) - [c/blueteamsec](https://infosec.pub/c/blueteamsec) - [c/cyberveille](https://infosec.pub/c/cyberveille)
-
-### 🔴 YTB Channel
-
-- [@pen Source Security](https://www.youtube.com/@opensourcesecurity)
-- [@2.5 Admins](https://www.youtube.com/@LateNightLinux)
-- [@HackADay](https://www.youtube.com/@hackaday)
-- [@NullByteWHT](https://www.youtube.com/@NullByteWHT)
-- [@\_JohnHammond](https://www.youtube.com/@_JohnHammond)
-- [@KenHarrisio](https://www.youtube.com/@KenHarrisio)
-
-### 🎙️ Podcast
-
-- [La French Connection](https://securite.fm/)
-- [TheCyberWire](https://thecyberwire.com/)
-- [Hack'n Speak](https://www.podchaser.com/podcasts/hackn-speak-1787627)
-- [Darknet Diaries](https://darknetdiaries.com)

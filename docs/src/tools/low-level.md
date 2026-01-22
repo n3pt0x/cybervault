@@ -4,7 +4,7 @@
 
 - [DogBolt](https://dogbolt.org/) - Decompile with multiple decompiler.
 - [Gidra](https://github.com/NationalSecurityAgency/ghidra)
-- [IDA](https://hex-rays.com/) **(Freemium)**.
+- [IDA](https://hex-rays.com/) **(Freemium)**
 
 ## Binary Analysis
 

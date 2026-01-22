@@ -4,7 +4,7 @@
 
 - [devina.io](https://devina.io/) - Several tools (Network, Security, Website, Code, Data).
 - [semgrep](https://github.com/semgrep/semgrep) - Analysis tool that searches code, finds bugs, and enforces secure guardrails.
-- [QuickRef](https://quickref.me/) - Some cheatsheets (programming, database, linux cli)
+- [QuickRef](https://quickref.me/) - Some cheatsheets (programming, database, linux cli).
 - [cheat.sh](https://cheat.sh/) - Cheatsheets on the use of tools.
 
 ## 🔐 Default Password
@@ -23,3 +23,7 @@
 ### ⛏️ Brute-Force
 
 - [CrackStation](https://crackstation.net/)
+
+## Public API
+
+- [Public APIs](https://publicapis.io/)
