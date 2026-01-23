@@ -21,6 +21,7 @@
 - [enola](https://github.com/TheYahya/enola) - This is [Sherlock](https://github.com/sherlock-project/sherlock) sister.
 - [emailrep.io](https://emailrep.io/) - Email reputation and OSINT scoring.
 - [Snov.io](https://snov.io/fr/trouver-une-adresse-mail) - Find emails linked to a domain.
+- [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool.
 - [WhatsMyName](https://whatsmyname.app/) - Username search across multiple sites.
 - [Hunter.io](https://hunter.io/) - Find email addresses by domain.
 - [ip-api.com](https://ip-api.com/) - IP geolocation API.
@@ -36,6 +37,7 @@
 - [lenso](https://lenso.ai/en) - AI Reverse Image Search.
 - [InVID](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - Video and image verification plugin.
 - [Berify](https://www.berify.com/) - Reverse image search focused on identifying image duplicates.
+- [FaceCheckID](https://facecheck.id/)
 
 ## 🌐 Social Media & Profiles
 

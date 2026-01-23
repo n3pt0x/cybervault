@@ -11,12 +11,9 @@
 ### 🛠️ Tools
 
 - [Exploit DB Google Hacking Database](https://www.exploit-db.com/google-hacking-database) - Ready-to-use Google dorks.
-- [dmorksearch.co](https://dorksearch.com/) - Google Dorks filters generator.
+- [dorksearch.com](https://dorksearch.com/) - Google Dorks filters generator.
 - [dorkgpt.com](https://www.dorkgpt.com/) - Create smart Google Dorks filters.
-- [GoogD0rker (Github)](https://github.com/ZephrFish/GoogD0rker/) - Automated Google Dorks Tools.
 - [dorkbot (Github)](https://github.com/utiso/dorkbot) - Search exploits.
-- [0xdork (Github)](https://github.com/rly0nheart/oxdork)
-- [Katana (Github)](https://github.com/0xStrontium/Katana)
 
 ### Wordlist
 

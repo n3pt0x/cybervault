@@ -2,11 +2,12 @@
 
 ## 🗃️ Inventory
 
-- [FHMY](https://fmhy.net) - The largest collection of free stuff on the internet.
-- [Welib](https://welib.org/) - Ebook downloader.
+- [FHMY](https://fmhy.net) - The largest collection of free stuff on the internet **(Very complete)**.
+- [Welib](https://welib.org/) - Ebook Library.
 
 ### 👾 CyberSecurity
 
+- [O'REILLY](https://www.oreilly.com/search/) - IT Library (SysAdmin, Cyber, Code & much more).
 - [Library/Security](https://theswissbay.ch/pdf/Gentoomen%20Library/Security/) - Several Books and PDF about Cyber Security.
 - [CyberSecurity-Books](https://github.com/pathakabhi24/CyberSecurity-Books) - Many Books for several categories.
 - [Ebooks about CyberSecurity](https://docs.gnet0.com/ebooks/) - (Coding, Cryptanalyse, Hardware)

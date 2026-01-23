@@ -5,12 +5,18 @@
 - [leakix.net](https://leakix.net/) - Crawls the internet and indexes exposed services.
 - [search.carrot2.org](https://search.carrot2.org/) - OSINT metasearch engine with clustering results.
 - [searchftps.net](https://www.searchftps.net/) - FTP search engine.
+- [MAMONT](https://www.mmnt.ru/int/) - Open FTP Indexer.
+- [Napalm](https://www.searchftps.net/) - Open FTP Indexer.
 
 ### </> Code
 
 - [Grep App](https://grep.app/) - Search leaked code on GitHub repositories.
 - [searchcode.com](https://searchcode.com/) - Code search engine (GitHub, GitLab, Bitbucket).
-- [publicwww.com](https://publicwww.com) - Source code search engine, find websites using specific keywords (JS, HTML, analytics IDs).
+- [publicwww.com](https://publicwww.com) - Source code search engine, find websites using specific keywords.
+- [OpenBuckets](https://openbuckets.io/) - Find exposed buckets (AWS, Azure, IBM and much more).
+- [Gray Hat Warfare](https://buckets.grayhatwarfare.com/) - Search in amazon s3 public buckets.
+- [Gitleaks](https://github.com/gitleaks/gitleaks) - Detecting passwords, API keys, tokens in git repositories.
+- [TruffleHog](https://github.com/trufflesecurity/truffleHog) - The most powerful secrets Discovery, Validation, and Analysis tool.
 
 #### Github commit leak email
 
@@ -42,7 +48,6 @@
 - [Leak-Lookup](https://leak-lookup.com/) - Breach database with API. **(Freemium)**
 - [Dehashed](https://dehashed.com/) - Powerful breach search engine. **(Paid)**
 - [Snusbase](https://snusbase.com/) - Credential leaks search with a simple interface. **(Paid)**
-- [bugmenot.com](https://bugmenot.com/) - Shared logins/passwords to access from websites.
 
 ### 📂 Documents
 

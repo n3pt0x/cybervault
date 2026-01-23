@@ -12,6 +12,7 @@
 
 - [Tor](https://www.torproject.org/)
 - [Mullvad](https://mullvad.net/en/browser)
+- [LibreWolf](https://librewolf.net/)
 - [I2P](https://geti2p.net/en/) - Peer to Peer.
 - [Orion](https://orionbrowser.com/)
 

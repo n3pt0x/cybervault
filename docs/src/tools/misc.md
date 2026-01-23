@@ -23,7 +23,3 @@
 ### ⛏️ Brute-Force
 
 - [CrackStation](https://crackstation.net/)
-
-## Public API
-
-- [Public APIs](https://publicapis.io/)
