@@ -1,4 +1,4 @@
-# 📚 Books
+# 📚 Digital Resources
 
 ## 🗃️ Inventory
 

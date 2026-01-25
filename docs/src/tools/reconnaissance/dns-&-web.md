@@ -23,5 +23,6 @@
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - DNS Records, WHOIS, TLS, WAF, Bucket, Open Port, Fuzzing.
 - [Gixy-Next](https://github.com/MegaManSec/Gixy-Next) - NGINX configuration security scanner.
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Vulnerabilities scanner, customizable.
+- [Wapiti](https://github.com/wapiti-scanner/wapiti) - Web vulnerability scanner.
 - [CRLFsuite Scanner](https://github.com/Raghavd3v/CRLFsuite)
 - [Corsfix](https://corsfix.com/tools/cors-tester) - Check CORS configuration.

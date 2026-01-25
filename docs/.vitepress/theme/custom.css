@@ -1,0 +1,30 @@
+/* Light mode */
+.DocSearch {
+  border-radius: 8px;
+  background: #f6f6f7;
+  color: #7b7b80;
+}
+
+.DocSearch-Button {
+  border: 1px solid #d1d5db;
+}
+
+.DocSearch-Button:hover {
+  border-color: #8b92d2;
+}
+
+/* Dark mode */
+html.dark .DocSearch {
+  background: #161618;
+  color: #7b7b80;
+}
+
+html.dark .DocSearch-Button {
+  border: 1px solid #333;
+}
+
+html.dark .DocSearch-Button:hover {
+  border-color: #8b92d2;
+  background-color: #1f1f1f;
+  color: #fff;
+}

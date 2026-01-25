@@ -1,4 +1,4 @@
-# 📝 Offensive Cheatsheet
+# 📝 Offensive
 
 ## 🗂️ Resources
 
@@ -21,6 +21,7 @@
 
 ## 📖 Handbook (Learning)
 
+- [VESPER Sec](https://vespersec.net/docs/) - Cheasheet (OSINT, Vuln, Network) & workflow methodologies.
 - [The Hacker Recipes](https://www.thehacker.recipes/) - AD, Web, Systems & Service, Evasion and more.
 - [Web pentesting handbook](https://0xn3va.gitbook.io/application-security-handbook).
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) Pentesting Guide.

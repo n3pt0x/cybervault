@@ -14,7 +14,7 @@
 - [searchcode.com](https://searchcode.com/) - Code search engine (GitHub, GitLab, Bitbucket).
 - [publicwww.com](https://publicwww.com) - Source code search engine, find websites using specific keywords.
 - [OpenBuckets](https://openbuckets.io/) - Find exposed buckets (AWS, Azure, IBM and much more).
-- [Gray Hat Warfare](https://buckets.grayhatwarfare.com/) - Search in amazon s3 public buckets.
+- [GrayHatWarfare](https://buckets.grayhatwarfare.com/) - Search engine for public Amazon S3 buckets and exposed files.
 - [Gitleaks](https://github.com/gitleaks/gitleaks) - Detecting passwords, API keys, tokens in git repositories.
 - [TruffleHog](https://github.com/trufflesecurity/truffleHog) - The most powerful secrets Discovery, Validation, and Analysis tool.
 
@@ -31,6 +31,7 @@
 - [Leak OSINT](https://leakosint.com/en) - Telegram Bot.
 - [Telemetry](https://www.telemetryapp.io/) - Telegram search messages, channels.
 - [Universal SearchBot](https://t.me/universal_searchbot) - Telegram OSINT & much more search bot.
+- [Pastebin Scraper / API](https://pastebin.com/doc_api) - Scrape and research public Pastebin content.
 - [phonebook.cz](https://phonebook.cz/) - Phonebook list all informations.
 
 ### 🌍 Global Investigations
@@ -52,10 +53,4 @@
 ### 📂 Documents
 
 - [cryptome.org](https://cryptome.org/) - Archive of leaked documents since 1996.
-- [aleph.occrp.org](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
 - [IntelligenceX](https://intelx.io/) - Powerful search engine indexing leaks, paste sites, darknet, and public data. **(Paid)**
-- [GrayhatWarfare](https://buckets.grayhatwarfare.com/) - Search engine for public Amazon S3 buckets and exposed files.
-
-### 📝 Pastebin Scraper / API
-
-- [Pastebin Scraper / API](https://pastebin.com/doc_api) - Scrape and research public Pastebin content.

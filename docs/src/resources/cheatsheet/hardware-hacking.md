@@ -1,0 +1,14 @@
+# 🛠️ Hardware Hacking
+
+> [!NOTE]
+> Binary exploitation, reverse engineering, hardware hacking (IOT, Mobile) and a lot of more.
+
+## Resources
+
+- [Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
+- [Nightmare](https://guyinatuxedo.github.io/) - Binary exploitation / reverse engineering course based around ctf challenges.
+- [Binary exploitation notes](https://ir0nstone.gitbook.io/notes/)
+
+### Guide
+
+- [exploitee.rs](https://exploitee.rs/) - IoT & Mobile security, Entertainment Systems, (forum, wiki, blog, discord).
