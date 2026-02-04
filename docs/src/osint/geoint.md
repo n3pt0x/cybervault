@@ -7,7 +7,7 @@
 - [Mapillary](https://www.mapillary.com/) - Collaborative street-level imagery.
 - [Sentinel Hub Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Free satellite imagery explorer.
 - [Zoom Earth](https://zoom.earth/) - Real-time satellite images, weather, and storms.
-- [Wikimapia](http://wikimapia.org/) - User-contributed geospatial map.
+- [Wikimapia](https://wikimapia.org/) - User-contributed geospatial map.
 - [PeakVisor](https://peakvisor.com/) - Identify mountains and landscapes in photos.
 
 ### 🤖 AI GeoSpy

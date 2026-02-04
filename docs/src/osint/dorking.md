@@ -15,7 +15,7 @@
 - [dorkgpt.com](https://www.dorkgpt.com/) - Create smart Google Dorks filters.
 - [dorkbot (Github)](https://github.com/utiso/dorkbot) - Search exploits.
 
-### Wordlist
+### 📝 Wordlist
 
 - [DorkingWordlists](https://github.com/zebbern/DorkingWordlists)
 - [GoogleHackMasterList.txt](https://gist.githubusercontent.com/AizazZaidee/bb35d65dbbdd7744b26ad977f4ac693b/raw/6d37cdfd08042cd062d442ae21e880ac42cffaa5/GoogleHackMasterList.txt)

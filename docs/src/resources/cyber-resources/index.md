@@ -20,9 +20,11 @@
 
 - [Korben (FR)](https://korben.info) - Multiple news topics (cyber, hardware, developement and more).
 - [globalsecuritymag.fr (FR)](https://www.globalsecuritymag.fr/) - Actuality, exploits, (interviews, investigations).
-- [Open Source Security](https://opensourcesecurity.io/).
+- [Open Source Security](https://opensourcesecurity.io/)
+- [infosecwriteups.com](https://infosecwriteups.com/)
+- [Hacking Articles](https://www.hackingarticles.in/)
 
-### 📝 Articles & Posts for Learning
+### 📝 Articles & Posts
 
 - [HackMag](https://hackmag.com/) - News, Security, Malware, Coding, UNIX, DevOps.
 - [TrusteSec](https://trustedsec.com/blog) - Security insights, tips, and tricks.

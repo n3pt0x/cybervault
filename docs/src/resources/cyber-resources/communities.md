@@ -1,5 +1,7 @@
 # 🌎 Communities
 
+- [Full-Disclosure](https://seclists.org/fulldisclosure/) – Public mailing list with vuln details and exploits.
+
 ## 🗫 Forum
 
 - [news.ycombinator.com](https://news.ycombinator.com/) - News about cybersecurity.
@@ -7,6 +9,7 @@
 - [Newbie Contest (FR)](https://www.newbiecontest.org/) - Forum, challenges, learning, and more.
 - [r/cybersecurity](https://www.reddit.com/r/cybersecurity/) - Reddit cybersecurity forum.
 - [r/infosec](https://www.reddit.com/r/Infosec/)
+- [attackerkb](https://attackerkb.com/) - Forum for the security community to share insights.
 
 ## 🌐 IRC
 

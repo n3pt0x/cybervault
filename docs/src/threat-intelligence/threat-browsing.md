@@ -6,7 +6,9 @@
 
 ## 🔎 Search Engine
 
-- [Ahmia (Tor)](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/)
+- [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/)
+- [Excavator](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/)
+- [OnionLand](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/)
 - [Onion Search Engine](https://onionsearchengine.com/)
 - [Torch](https://torchsearch.wordpress.com/)
 - [Tor66](https://tor66.com/)

@@ -1,7 +1,13 @@
 # 📚 Resources
 
+- [trackawesomelist.com](https://www.trackawesomelist.com/) - Track Awesome List Updates Daily.
+- [awesome.ecosyste.ms](https://awesome.ecosyste.ms/) - Awesome List for ALL.
+
 ## 👾 Cybersecurity
 
+- [Awesome CSIRT](https://github.com/Spacial/awesome-csirt) - CVEs, Red / Blue Team, Social Engineering, Post Exploit, Mobile, Low Level, RF.
+- [CyberSources](https://www.cybersources.site/) | [Github](https://github.com/bst04/CyberSources) - Top-rated tools and guides from the community.
+- [Awesome Bugbounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 - [APTnotes](https://github.com/aptnotes/data) - Repository of public resources related to malicious activity associated with APT group.
 - [Rawsec's](https://inventory.raw.pm/) - Inventory of several resources & tools.
 

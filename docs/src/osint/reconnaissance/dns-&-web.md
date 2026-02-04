@@ -2,12 +2,12 @@
 
 - [osint.sh](https://osint.sh/) - Several Tools to enum DNS.
 - [crt.sh](https://crt.sh/) - Search Certificat and subdomain enumeration.
-- [threatcrowd.org](http://ci-www.threatcrowd.org/) - DNS and Subdomain Enumaration + Cartography.
+- [threatcrowd.org](https://ci-www.threatcrowd.org/) - DNS and Subdomain Enumaration + Cartography.
 - [dnsdumpster.com](https://dnsdumpster.com/) - DNS and Subdomain Recon.
 - [who.is](https://who.is/) - DNS Recon.
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - WHOIS, DNS, Check fiability.
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 - [amass (GitHub)](https://github.com/owasp-amass/amass) - OSINT + subdomain brute-force.
 - [DNSRecon Github](https://github.com/darkoperator/dnsrecon) - Enum based on DNS records, bruteforce based on wilcard and much more.

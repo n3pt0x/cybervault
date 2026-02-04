@@ -5,7 +5,7 @@
 - [Tails](https://tails.net/)
 - [Qubes OS](https://www.qubes-os.org/)
 - [Whonix](https://www.whonix.org/wiki/About)
-- [GrapheneOS](https://grapheneos.org/) - Android OS.
+- [GrapheneOS](https://grapheneos.org/)
 - [HiddenVM](https://github.com/aforensics/HiddenVM)
 
 ## 🌐 Browsing
@@ -13,7 +13,7 @@
 - [Tor](https://www.torproject.org/)
 - [Mullvad](https://mullvad.net/en/browser)
 - [LibreWolf](https://librewolf.net/)
-- [I2P](https://geti2p.net/en/) - Peer to Peer.
+- [I2P](https://geti2p.net/en/)
 - [Orion](https://orionbrowser.com/)
 
 ### 🔎 Search Engine
@@ -40,15 +40,15 @@
 
 ### 🛡️ VPN
 
-- [Mullvad](https://mullvad.net/) - Secure & Privacy.
-- [ProtonVPN](https://protonvpn.com/) - Secure & Privacy.
+- [Mullvad](https://mullvad.net/)
+- [ProtonVPN](https://protonvpn.com/)
 - [IVPN](https://www.ivpn.net/en/)
 
 ### 🔀 Proxy
 
 - [Proxy list comparison](https://docs.google.com/spreadsheets/d/1V1MFJJqwAtn9O_WgynUMXRbXLhsY2SAViADYsLZy63U/edit?gid=0#gid=0).
-- [spys.one](http://spys.one/en/) - Large proxy list with advanced filters.
-- [free-proxy.cz](http://free-proxy.cz/) - Updated proxy lists by type & country.
+- [spys.one](https://spys.one/en/) - Large proxy list with advanced filters.
+- [free-proxy.cz](https://free-proxy.cz/) - Updated proxy lists by type & country.
 
 ## 🖧 Servers
 

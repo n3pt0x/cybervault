@@ -1,4 +1,4 @@
-# 🧠 Smart Tools
+# 🧠 Tools & Platforms
 
 ## 🌐 Web Tools
 

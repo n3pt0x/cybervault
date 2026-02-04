@@ -16,4 +16,4 @@
 ### 💡 IOT & Others
 
 - [zoomeye.org](https://www.zoomeye.org/) - IoT & network search engine.
-- [Insecam](http://www.insecam.org) - Live cameras directory.
+- [Insecam](https://www.insecam.org) - Live cameras directory.

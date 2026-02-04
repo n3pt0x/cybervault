@@ -7,29 +7,27 @@
 
 ### 📧 Temporary & Disposable Emails
 
+- [guerrillamail.com](https://www.guerrillamail.com/) - Disposable email, auto-expiring.
 - [cs.email](https://cs.email/)
 - [Yopmail](https://yopmail.com/)
-- [temporary-mail.net](https://www.temporary-mail.net/) | [Temp Gmail (@gmail)](https://www.mailticking.com/) | [emailnator.com](https://www.emailnator.com/) - Temp mail with `@gmail.com` email.
-- [guerrillamail.com](https://www.guerrillamail.com/) - Disposable email, auto-expiring.
+- [temporary-mail.net](https://www.temporary-mail.net/) | [Temp Gmail](https://www.mailticking.com/) | [emailnator.com](https://www.emailnator.com/) - `@gmail.com` DNS.
 
 ### 📱 Temporary Phone Numbers
 
-- [hushed](https://hushed.com/) - Send, received.
+- [hushed](https://hushed.com/) - Second phone numbers.
 - [anonymoustext.com](https://www.anonymoustext.com/)
 - [online-sim.pro](https://online-sim.pro)
 - [onlinesim.io](https://onlinesim.io/)
 - [receivesms.co](https://receivesms.co/)
-- [receive-sms.org](https://receive-sms.org/) - Free temp phone numbers.
-- [sms24.me](https://sms24.me/) - Large list of public numbers for disposable use.
+- [sms24.me](https://sms24.me/)
 
 ## 📂 Anonymous File Sharing
 
 - [onionshare.org](https://onionshare.org/) - File sharing & hosting via Tor, highly anonymous.
 - [Mozilla send (instances)](https://github.com/timvisee/send-instances/) - MozilaSend fork, these server are hosted by the community.
-- [anonfiles.com](https://anonfiles.com/) - Upload and share files anonymously.
-- [wormhole.app](https://wormhole.app/) - Encrypted file sharing with self-destruct links.
-- [file.pizza](https://file.pizza/) - P2P file sharing directly via browser.
 - [send.vis.ee](https://send.vis.ee/) - Fork of Firefox Send, encrypted & ephemeral file sharing.
+- [wormhole.app](https://wormhole.app/) - E2E encryption.
+- [file.pizza](https://file.pizza/) - P2P file sharing.
 
 ## 🛠️ Other Useful Services
 

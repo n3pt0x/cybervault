@@ -3,6 +3,7 @@
 ## 🔗 Resources
 
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - (APIs, Tools, Framework, Resources & more).
+- [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources.
 - [Zeek Intelligence Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) - Public Threat Feeds.
 - [Threat Feeds](https://threatfeeds.io/) - Free and open-source threat intelligence feeds.
 
