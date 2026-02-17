@@ -29,6 +29,7 @@
 
 - [PDF Examiner](https://www.pdf-online.com/osa/verify.aspx) – Extract PDF metadata and check security.
 - [ExtractMetadata](https://www.extractmetadata.com/) - Extract metadata from various files type.
+- [PDF24 Tools](https://tools.pdf24.org/en/)
 
 ## 🔬 Stegano
 
