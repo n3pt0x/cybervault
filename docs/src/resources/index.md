@@ -5,6 +5,7 @@
 
 ## 👾 Cybersecurity
 
+- [PentesterLand](https://pentester.land/) - Writeups, exploit, references, and much more.
 - [Awesome CSIRT](https://github.com/Spacial/awesome-csirt) - CVEs, Red / Blue Team, Social Engineering, Post Exploit, Mobile, Low Level, RF.
 - [CyberSources](https://www.cybersources.site/) | [Github](https://github.com/bst04/CyberSources) - Top-rated tools and guides from the community.
 - [Awesome Bugbounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)

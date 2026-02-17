@@ -28,6 +28,7 @@
 
 - [HackMag](https://hackmag.com/) - News, Security, Malware, Coding, UNIX, DevOps.
 - [TrusteSec](https://trustedsec.com/blog) - Security insights, tips, and tricks.
+- [#\_shellntel](https://blog.shellntel.com/)
 - [vaadata](https://www.vaadata.com/blog/) - Offensive blog.
 - [darknet.org.uk](https://www.darknet.org.uk/) - Exploits, attacks explanations, hacking tools presentations.
 - [0DaysFans](https://0dayfans.com) - Explanations about exploits discovery.

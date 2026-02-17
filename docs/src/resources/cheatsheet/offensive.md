@@ -40,3 +40,5 @@
 - [s1rn3tz.ovh (FR)](https://blog.s1rn3tz.ovh/) - Notes & Resources taken during a pentesting missions.
 - [Red Team Notes](https://www.ired.team/) - Notes about pentesting experiences & missions of author.
 - [Pentest Everything](https://viperone.gitbook.io/pentest-everything/) - Good notes for Active Directory pentesting.
+- [pentest-book.com](https://www.pentest-book.com/)
+- [Pentesting Notes](https://notes.incendium.rocks/pentesting-notes/)
