@@ -1,9 +1,19 @@
 ---
+title: CyberVault
+titleTemplate: Structured Cybersecurity Knowledge Base
 category: intro
 # editLink: false
 # lastUpdated: false
 ---
 
-# 🏛️ CyberVault
+<script setup>
+import HeroSection from '../.vitepress/theme/components/HeroSection.vue'
+import HomeSections from '../.vitepress/theme/components/HomeSections.vue'
+import FooterSection from '../.vitepress/theme/components/FooterSection.vue'
+</script>
 
-CyberVault is a repository that references several resources, tools, applications and more other elements relating to CyberSecurity, Infomation Security, Operational Security and much more.
+<HeroSection />
+
+<HomeSections id="sections" />
+
+<FooterSection />

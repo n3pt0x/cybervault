@@ -23,6 +23,7 @@
 
 ## 📂 Anonymous File Sharing
 
+- [anonfile](https://www.anonfile.top/)
 - [onionshare.org](https://onionshare.org/) - File sharing & hosting via Tor, highly anonymous.
 - [Mozilla send (instances)](https://github.com/timvisee/send-instances/) - MozilaSend fork, these server are hosted by the community.
 - [send.vis.ee](https://send.vis.ee/) - Fork of Firefox Send, encrypted & ephemeral file sharing.

@@ -5,6 +5,8 @@
 - [start.me](https://start.me/p/BnrKpe/02-opsec-online-privacy) - Tools listing.
 - [privacytools.io](https://www.privacytools.io/) - Referencing privacy tools by category.
 - [Digital Defense](https://digital-defense.io/) - Personal Security Checklist.
+- [OPSEC - OSINT Tools](https://github.com/xeniode/opsec-search-tools)
+- [OPSEC - OSINT List & Guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
 - [Riseup](https://riseup.net/) - Privacy-focused services (VPN, email, chat).
 
 ## 🧑 SockPuppet

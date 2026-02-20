@@ -12,8 +12,8 @@ export default defineConfig({
     search: {
       provider: "local",
       options: {
-        detailedView: true // display detailed list
-      }
+        detailedView: true, // display detailed list
+      },
     },
 
     // https://vitepress.dev/reference/default-theme-config
@@ -27,7 +27,7 @@ export default defineConfig({
       sortMenusOrderNumericallyFromTitle: true,
       hyphenToSpace: true,
       capitalizeFirst: true,
-      capitalizeEachWords: true
+      capitalizeEachWords: true,
     }),
   },
 });

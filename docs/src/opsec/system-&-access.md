@@ -18,8 +18,7 @@
 
 ### 🔎 Search Engine
 
-> [!NOTE]
-> Dorking filters are available in most browsers.
+> [!NOTE] Dorking filters are available in most browsers.
 
 - [Search Engine list](https://start.me/p/b56G5Q/search-engines)
 - [DuckDuckGo](https://duckduckgo.com/)
@@ -31,8 +30,10 @@
 
 ### 🫆 Fingerprint Testing
 
-- [CoverYourTracks](https://coveryourtracks.eff.org/) - See how trackers view your browser.
-- [Webkay](https://webkay.robinlinus.com/) - What every Browser knows about you.
+> [!NOTE] See how trackers view your browser.
+
+- [CoverYourTracks](https://coveryourtracks.eff.org/)
+- [Webkay](https://webkay.robinlinus.com/)
 - [DNS Leaks](https://browserleaks.com/dns)
 - [DNS leaks & Fingerprint](https://ipleak.net/)
 
@@ -46,9 +47,12 @@
 
 ### 🔀 Proxy
 
-- [Proxy list comparison](https://docs.google.com/spreadsheets/d/1V1MFJJqwAtn9O_WgynUMXRbXLhsY2SAViADYsLZy63U/edit?gid=0#gid=0).
+- [proxifly](https://github.com/proxifly/free-proxy-list) - Free proxy list.
+- [Proxy list comparison](https://docs.google.com/spreadsheets/d/1V1MFJJqwAtn9O_WgynUMXRbXLhsY2SAViADYsLZy63U/edit?gid=0#gid=0)
 - [spys.one](https://spys.one/en/) - Large proxy list with advanced filters.
-- [free-proxy.cz](https://free-proxy.cz/) - Updated proxy lists by type & country.
+- [free-proxy](https://free-proxy.cz/) - Updated proxy lists by type & country.
+- [proxynova](https://www.proxynova.com/proxy-server-list/)
+- [way2proxy](https://way2proxy.com/free-proxy-list/)
 
 ## 🖧 Servers
 
