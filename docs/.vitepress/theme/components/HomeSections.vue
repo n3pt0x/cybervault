@@ -1,7 +1,14 @@
 <template>
   <div class="cv-grid">
     <SectionCard
-      icon="🛡"
+      icon="👾"
+      title="Cybersecurity"
+      description="Cybersecurity resources."
+      href="/cybersecurity/"
+    />
+
+    <SectionCard
+      icon="🛡️"
       title="OPSEC"
       description="Operational security principles and privacy practices."
       href="/opsec/"
@@ -31,7 +38,7 @@
     <SectionCard
       icon="📚"
       title="Resources"
-      description="Books, research, blogs and educational materials."
+      description="Books, research, cheat-sheets, blogs and educational materials."
       href="/resources/"
     />
   </div>

@@ -15,7 +15,7 @@
 ### 📱 Temporary Phone Numbers
 
 - [hushed](https://hushed.com/) - Second phone numbers.
-- [anonymoustext.com](https://www.anonymoustext.com/)
+- [sendanonymoussms.com](http://sendanonymoussms.com/)
 - [online-sim.pro](https://online-sim.pro)
 - [onlinesim.io](https://onlinesim.io/)
 - [receivesms.co](https://receivesms.co/)

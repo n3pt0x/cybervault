@@ -1,5 +1,5 @@
 ---
-title: CyberVault
+title: 🏛️ CyberVault
 titleTemplate: Structured Cybersecurity Knowledge Base
 category: intro
 # editLink: false

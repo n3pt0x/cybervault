@@ -26,4 +26,5 @@
 - [Darknet Diaries](https://darknetdiaries.com)
 - [Risky Business](https://risky.biz/podcasts/)
 - [SANS](https://isc.sans.edu/podcast.html)
+- [TrustedSec](https://trustedsec.com/resources?sections=podcasts)
 - [Malicious Life](https://malicious.life/)

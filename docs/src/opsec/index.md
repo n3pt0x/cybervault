@@ -19,9 +19,9 @@
 
 ### 🔒 Password Manager
 
-- [bitwarden](https://bitwarden.com/) - CLI, Cloud & Desktop.
 - [Proton Pass](https://proton.me/fr/pass) - Desktop, Cloud.
 - [KeePassXC](https://keepassxc.org/) - Desktop & Portable.
+- [bitwarden](https://bitwarden.com/) - CLI, Cloud & Desktop.
 
 ### 🔑 MFA Apps
 

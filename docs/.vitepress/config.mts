@@ -5,7 +5,7 @@ import { generateSidebar } from "vitepress-sidebar";
 export default defineConfig({
   srcDir: "src",
 
-  title: "CyberVault",
+  title: "🏛️ CyberVault",
   cleanUrls: true,
 
   themeConfig: {

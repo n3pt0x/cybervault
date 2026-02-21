@@ -15,6 +15,7 @@
 - [LibreWolf](https://librewolf.net/)
 - [I2P](https://geti2p.net/en/)
 - [Orion](https://orionbrowser.com/)
+- [Che Browser](https://chebrowser.site/)
 
 ### 🔎 Search Engine
 

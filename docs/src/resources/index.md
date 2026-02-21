@@ -6,6 +6,7 @@
 ## 👾 Cybersecurity
 
 - [PentesterLand](https://pentester.land/) - Writeups, exploit, references, and much more.
+- [OFFSEC Tools](https://offsec.tools/) - Vast listing of security tools.
 - [Awesome CSIRT](https://github.com/Spacial/awesome-csirt) - CVEs, Red / Blue Team, Social Engineering, Post Exploit, Mobile, Low Level, RF.
 - [CyberSources](https://www.cybersources.site/) | [Github](https://github.com/bst04/CyberSources) - Top-rated tools and guides from the community.
 - [Awesome Bugbounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
@@ -16,6 +17,7 @@
 
 - [InfoSec Reference](https://rmusser.net/docs/#/) - Several categories & references about infosec (very complete).
 - [InfoSec House](https://infosec.house/) - Several resources about cybersecurity.
+- [InfoSec Notes](https://notes.qazeer.io/) - InfoSec, Pentesting, Red Teaming.
 - [Infosec Resources](https://github.com/pathakabhi24/Infosec-Resources) - Blog, YTB channels, Documentaries.
 - [Infosec Tools (list)](https://shellsharks.com/infosec-tools) - (OSINT, Offensive, Blue / Red Team, Enum and much more).
 
