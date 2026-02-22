@@ -48,10 +48,10 @@
 
 ### 🔀 Proxy
 
-- [proxifly](https://github.com/proxifly/free-proxy-list) - Free proxy list.
+- [proxifly](https://github.com/proxifly/free-proxy-list)
 - [Proxy list comparison](https://docs.google.com/spreadsheets/d/1V1MFJJqwAtn9O_WgynUMXRbXLhsY2SAViADYsLZy63U/edit?gid=0#gid=0)
-- [spys.one](https://spys.one/en/) - Large proxy list with advanced filters.
-- [free-proxy](https://free-proxy.cz/) - Updated proxy lists by type & country.
+- [spys.one](https://spys.one/en/)
+- [free-proxy](https://free-proxy.cz/)
 - [proxynova](https://www.proxynova.com/proxy-server-list/)
 - [way2proxy](https://way2proxy.com/free-proxy-list/)
 

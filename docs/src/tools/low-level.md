@@ -2,7 +2,7 @@
 
 ## Decompiler
 
-- [DogBolt](https://dogbolt.org/) - Decompile with multiple decompiler.
+- [DogBolt](https://dogbolt.org/) - Multiple decompiler online.
 - [Gidra](https://github.com/NationalSecurityAgency/ghidra)
 - [IDA](https://hex-rays.com/) **(Freemium)**
 

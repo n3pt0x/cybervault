@@ -15,3 +15,5 @@
 - [Hidden Wiki](https://hiddenwikii.org/) - Knowledge base about fundamentals & advanced to keep privacy.
 - [InfoSec / OpSec Essentials](https://kenharris.io/)
 - [DarkWebLink](https://darkweblink.com/) - OPSEC guide and more.
+- [IVPN OPSEC Guides](https://www.ivpn.net/privacy-guides/)
+- [anonymousplanet](https://anonymousplanet.org/guide/)
