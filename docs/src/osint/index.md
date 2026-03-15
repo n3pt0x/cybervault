@@ -1,6 +1,6 @@
 # 🕵️‍♀️ OSINT
 
-## 🔗 Resources & Stuff Collection
+## 📚 Resources & Stuff Collection
 
 - [OSINT Framework](https://osintframework.com/) - Large tree of OSINT tools for websites, social media, documents.
 - [metaosint.github.io](https://metaosint.github.io/chart) – Top tools references by domains.

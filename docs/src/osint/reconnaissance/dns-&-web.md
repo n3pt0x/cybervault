@@ -26,3 +26,4 @@
 - [Wapiti](https://github.com/wapiti-scanner/wapiti) - Web vulnerability scanner.
 - [CRLFsuite Scanner](https://github.com/Raghavd3v/CRLFsuite)
 - [Corsfix](https://corsfix.com/tools/cors-tester) - Check CORS configuration.
+- [retire.js](https://github.com/retirejs/retire.js/) - Detecting JavaScript libraries.
