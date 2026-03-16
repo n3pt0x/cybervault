@@ -24,27 +24,28 @@
 
 ### 🔍 Core Filters
 
-| Operator                          | Use case                                     |
-| --------------------------------- | -------------------------------------------- |
-| `site:domain.com`                 | Limit results to a specific site/domain      |
-| `-site:domain.com`                | Exclude a domain from results                |
-| `inurl:keyword`                   | Search keyword in the URL                    |
-| `intitle:keyword`                 | Search keyword in the page title             |
-| `allintitle:keyword1 keyword2`    | Page title containing both keywords          |
-| `allinurl:keyword1 keyword2`      | URL containing both keywords                 |
-| `intext:keyword`                  | Search keyword in the page content           |
-| `filetype:pdf`                    | Find specific file types (`pdf`, `xls`...)   |
-| `ext:docx`                        | Same as filetype, alternative syntax         |
-| `cache:domain.com`                | View Google’s cached version                 |
-| `related:domain.com`              | Find sites related to a domain               |
-| `link:domain.com`                 | Pages linking to a specific domain           |
-| `before:YYYY` `before:YYYY-MM-DD` | Pages created before a time                  |
-| `after:YYYY` `after:YYYY-MM-DD`   | Pages created after a time                   |
-| `2020..2022`                      | Return all page between 2020 2022            |
-| `*`                               | Wildcard operator                            |
-| `""`                              | Exact match search                           |
-| `OR` / `-`                        | Boolean operators (OR / exclude)             |
-| `"word1" AROUND(5) "word2"`       | Words appearing within 5 words of each other |
+| Operator                           | Use case                                        |
+| ---------------------------------- | ----------------------------------------------- |
+| `site:domain.com`                  | Limit results to a specific site/domain         |
+| `-site:domain.com`                 | Exclude a domain from results                   |
+| `@` (e.g. `@reddit cybersecurity`) | Restrict search to a particular social platform |
+| `inurl:keyword`                    | Search keyword in the URL                       |
+| `intitle:keyword`                  | Search keyword in the page title                |
+| `allintitle:keyword1 keyword2`     | Page title containing both keywords             |
+| `allinurl:keyword1 keyword2`       | URL containing both keywords                    |
+| `intext:keyword`                   | Search keyword in the page content              |
+| `filetype:pdf`                     | Find specific file types (`pdf`, `xls`...)      |
+| `ext:docx`                         | Same as filetype, alternative syntax            |
+| `cache:domain.com`                 | View Google’s cached version                    |
+| `related:domain.com`               | Find sites related to a domain                  |
+| `link:domain.com`                  | Pages linking to a specific domain              |
+| `before:YYYY` `before:YYYY-MM-DD`  | Pages created before a time                     |
+| `after:YYYY` `after:YYYY-MM-DD`    | Pages created after a time                      |
+| `2020..2022`                       | Return all page between 2020 2022               |
+| `*`                                | Wildcard operator                               |
+| `""`                               | Exact match search                              |
+| `OR` / `-`                         | Boolean operators (OR / exclude)                |
+| `"word1" AROUND(5) "word2"`        | Words appearing within 5 words of each other    |
 
 ### ⚡ Common Dorks
 
