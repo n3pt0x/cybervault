@@ -8,6 +8,10 @@
 - [GrapheneOS](https://grapheneos.org/)
 - [HiddenVM](https://github.com/aforensics/HiddenVM)
 
+### Configuration
+
+- [privacy.sexy](https://privacy.sexy/) - Collection of scripts to enforce privacy & security.
+
 ## 🌐 Browsing
 
 - [Tor](https://www.torproject.org/)
