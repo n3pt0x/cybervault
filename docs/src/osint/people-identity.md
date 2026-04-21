@@ -38,6 +38,8 @@
 - [InVID](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - Video and image verification plugin.
 - [Berify](https://www.berify.com/) - Reverse image search focused on identifying image duplicates.
 - [FaceCheckID](https://facecheck.id/)
+- [whichfaceisreal.com](https://www.whichfaceisreal.com/)
+- [AmIReal/](https://seintpl.github.io/AmIReal/) - Check if picture is generated via AI.
 
 ## 🌐 Social Media & Profiles
 
