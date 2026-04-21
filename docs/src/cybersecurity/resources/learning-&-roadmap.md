@@ -10,9 +10,10 @@
 
 - [Roppers](https://www.roppers.org/collections) - Learn security, techniques, networking, fundamentals.
 - [TCM Security Academy](https://academy.tcm-sec.com/) - Cybersecurity Courses (Foundational, Red / Blue Team).
-- [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more). **(Freemium)**
+- [Cybersecurity Syllabus](https://github.com/4GeeksAcademy/cybersecurity-syllabus) - 
 - [codecademy](https://www.codecademy.com/catalog/subject/cybersecurity) - Enterprise, DevSecOps, Fundamentals.
 - [SANS](https://www.sans.org/) - Free resources, courses, learning paths (beginner to confirmed).
+- [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more). **(Freemium)**
 
 ### 💡 IOT
 
