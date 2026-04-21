@@ -10,7 +10,7 @@
 - [guerrillamail.com](https://www.guerrillamail.com/) - Disposable email, auto-expiring.
 - [cs.email](https://cs.email/)
 - [Yopmail](https://yopmail.com/)
-- [temporary-mail.net](https://www.temporary-mail.net/) | [Temp Gmail](https://www.mailticking.com/) | [emailnator.com](https://www.emailnator.com/) - `@gmail.com` DNS.
+- [smailpro.com](https://smailpro.com/temporary-email) | [temporary-mail.net](https://www.temporary-mail.net/) | [emailnator.com](https://www.emailnator.com/) - `@gmail.com` DNS.
 
 ### 📱 Temporary Phone Numbers
 
