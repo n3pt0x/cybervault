@@ -43,6 +43,7 @@
 - [Wi-Fi Map](https://www.wifi-map.com/) - Global map of public Wi-Fi networks shared by users.
 - [Mozilla Location Service](https://location.services.mozilla.com/) - Open API providing geolocation information based on Wi-Fi networks.
 - [GEOWiFi](https://github.com/GONZOsint/geowifi) - CLI tool using WiGLE API.
+- [ip-api.com](https://ip-api.com/) - IP geolocation API.
 
 ## 🛠️ Identificator Tools
 
