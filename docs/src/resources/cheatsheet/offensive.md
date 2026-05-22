@@ -1,20 +1,9 @@
 # 📝 Offensive
 
-## 🗂️ Resources
+## 🆆 Knowledge Base / Wiki
 
-- [The Art Of Hacking](https://github.com/The-Art-of-Hacking/h4cker) - Comprehensive collection of cybersecurity-related references, tools, code, and other resources.
-- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Several list of cheatsheet repertoried by category.
-- [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - Pentest Tools, resources, OSINT, and much more.
-- [Awesome Red Teaming](https://github.com/0xMrNiko/Awesome-Red-Teaming) - (Scan, Evasion, Hosting, Pivot, Post Exploit & much more).
-- [Awesome Red Teaming](https://github.com/SecuritySeizin/Awesome-Red-Teaming-1) - (Lateral Movement, PrivEsc, Obfuscation, Evasion & Malwares and much more).
-- [RedTeaming Tactics and Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques)
-- [Orange Cyber Defense MindMaps](https://orange-cyberdefense.github.io/ocd-mindmaps/) - AD mindmap.
-
-## 🆆 Documentation / Wiki
-
+- [HackIndex](https://hackindex.io/platforms) - knowledge base for penetration testers.
 - [HackTricks](https://book.hacktricks.wiki/en/index.html) - Pentesting methods, exploits, and much more.
-- [xapax.github.io](https://xapax.github.io/security/) - Security documentation (Web, Network, AD and much more).
-- [Aldeid](https://www.aldeid.com/wiki/Main_Page) - Pentesting, Threat Hunting.
 
 ### ⚙️ Tools
 
@@ -25,7 +14,7 @@
 - [VESPER Sec](https://vespersec.net/docs/) - Cheasheet (OSINT, Vuln, Network) & workflow methodologies.
 - [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
 - [The Hacker Recipes](https://www.thehacker.recipes/) - AD, Web, Systems & Service, Evasion and more.
-- [Web pentesting handbook](https://0xn3va.gitbook.io/application-security-handbook).
+- [Web pentesting handbook](https://0xn3va.gitbook.io/application-security-handbook)
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) Pentesting Guide.
 
 ## 📖 Playbook
@@ -35,7 +24,7 @@
 - [0xss0rz gitbook](https://0xss0rz.gitbook.io/0xss0rz/) - Antivirus Evasion - Defender, EDR Bypass, Red Team.
 - [Penetatrion testing concepts](https://jarrettgxz-sec.gitbook.io/penetration-testing-ethical-hacking-concepts/) - Very Complete.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Payloads Manuscript.
-- [InternalAllTheThings](https://swisskyrepo.github.io/InternalAllTheThings/) -
+- [InternalAllTheThings](https://swisskyrepo.github.io/InternalAllTheThings/)
 
 ## 📝 Note / Writeup / Cheatsheet
 
