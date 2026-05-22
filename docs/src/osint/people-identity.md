@@ -24,7 +24,7 @@
 - [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool.
 - [WhatsMyName](https://whatsmyname.app/) - Username search across multiple sites.
 - [Hunter.io](https://hunter.io/) - Find email addresses by domain.
-- [ip-api.com](https://ip-api.com/) - IP geolocation API.
+- [francy-annu.com](https://francy-annu.com/) - French directory for prospecting campaigns.
 
 > 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/osint/databases-&-leaks.md)
 
