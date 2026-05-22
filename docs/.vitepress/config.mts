@@ -28,6 +28,7 @@ export default defineConfig({
       hyphenToSpace: true,
       capitalizeFirst: true,
       capitalizeEachWords: true,
+      useTitleFromFrontmatter: true,
     }),
   },
 });
