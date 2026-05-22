@@ -3,7 +3,7 @@
 ## 🌍 Search Engine
 
 > [!NOTE]
-> This [cheatsheet](/osint/databases-&-leaks.md#-search-engine) contains search engines for OSINT, FTP, public buckets and more.
+> This [cheatsheet](/osint/databases-and-leaks.md#-search-engine) contains search engines for OSINT, FTP, public buckets and more.
 
 - [Shodan](https://shodan.io) - Internet-wide device search / [Shodan API](https://developer.shodan.io/api/clients) (cli tool)
 - [Censys](https://search.censys.io) - Certs & IP visibility.

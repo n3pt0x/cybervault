@@ -26,7 +26,7 @@
 - [Hunter.io](https://hunter.io/) - Find email addresses by domain.
 - [francy-annu.com](https://francy-annu.com/) - French directory for prospecting campaigns.
 
-> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/osint/databases-&-leaks.md)
+> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/osint/databases-and-leaks.md)
 
 ## 🖼️ Image & Face Search
 
