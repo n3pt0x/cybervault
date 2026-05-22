@@ -13,7 +13,7 @@
 - [start.me](https://start.me/p/QRENnO/databases) - (Databases (APIs), Government, Occupations, Tools).
 - [start.me](https://start.me/p/rxekAP/osint-research) - Osint / Geoint / SocMint tools collection.
 - [start.me](https://start.me/p/b56G5Q/search-engines) - Search Engine list.
-- [start.me](https://start.me/p/xjbRK8/osint-ibis) - OSINT / OpSec (Proxy, OSINT, Blockchains, Temp services).
+- [start.me](https://start.me/p/xjbRK8/osint-ibis) - OSINT / OpSec (Proxy, Blockchains, Temp services).
 - [Osint Resources (Google Docs)](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit?gid=0) - Spreadsheet of OSINT tools and databases
 
 ## 👥 Communities & Investigation Resources
