@@ -17,6 +17,7 @@
 ### 📝 Wordlist
 
 - [DorkingWordlists](https://github.com/zebbern/DorkingWordlists)
+- [Shodan Dorks](https://github.com/nullfuzz-pentest/shodan-dorks)
 - [GoogleHackMasterList.txt](https://gist.githubusercontent.com/AizazZaidee/bb35d65dbbdd7744b26ad977f4ac693b/raw/6d37cdfd08042cd062d442ae21e880ac42cffaa5/GoogleHackMasterList.txt)
 - [BugBounty Dorklist](https://github.com/mr23r0/Bug-Bounty-Dorks)
 
