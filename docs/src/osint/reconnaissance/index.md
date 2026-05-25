@@ -10,6 +10,9 @@
 - [FOFA](https://en.fofa.info) - Search Engine.
 - [IVRE](https://ivre.rocks/) - Network recon framework (active + passive).
 - [LeakIX](https://leakix.net/) - Network & Leak scanner.
+- [Netlas.io](https://app.netlas.io) - Network Scanner.
+- [Hunter](https://hunter.how/)
+- [Criminal IP](https://search.criminalip.io/)
 - [ZoomEye](https://www.zoomeye.ai/) - Internet Search Engine (CVE, headers).
 - [Google DatasetSearch](https://datasetsearch.research.google.com/) - Google datasets search engine.
 

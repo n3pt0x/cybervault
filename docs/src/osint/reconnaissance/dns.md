@@ -1,4 +1,4 @@
-# 🌍 DNS & Web Recon
+# 🌍 DNS Recon
 
 - [osint.sh](https://osint.sh/) - Several Tools to enum DNS.
 - [crt.sh](https://crt.sh/) - Search Certificat and subdomain enumeration.
@@ -16,15 +16,4 @@
 - [MassDNS](https://github.com/blechschmidt/massdns) - High-performance DNS stub resolver targeting (350,000~ names per second).
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Subdomain enum based on several sources (censys, fofa, github).
 - [Findomain](https://github.com/Findomain/Findomain) - Subdomain enum based on APIs & Certificated.
-
-## 🌐 Web App
-
-- [httpx](https://github.com/projectdiscovery/httpx) - Give your domain list, and get informations on target (technologies used, DNS, TLS, HTTP, Location and much more)
-- [FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - Headers, TLS, (sub)DNS, wayback, port scan, fuzzing.
-- [Raccoon](https://github.com/evyatarmeged/Raccoon) - DNS Records, WHOIS, TLS, WAF, Bucket, Open Port, Fuzzing.
-- [Gixy-Next](https://github.com/MegaManSec/Gixy-Next) - NGINX configuration security scanner.
-- [Nuclei](https://github.com/projectdiscovery/nuclei) - Vulnerabilities scanner, customizable.
-- [Wapiti](https://github.com/wapiti-scanner/wapiti) - Web vulnerability scanner.
-- [CRLFsuite Scanner](https://github.com/Raghavd3v/CRLFsuite)
-- [Corsfix](https://corsfix.com/tools/cors-tester) - Check CORS configuration.
-- [retire.js](https://github.com/retirejs/retire.js/) - Detecting JavaScript libraries.
+- [Subzy](https://github.com/PentestPad/subzy) - Subdomain takeover vulnerability checker.
