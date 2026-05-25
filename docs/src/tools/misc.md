@@ -1,5 +1,7 @@
 # 📦 Miscellaneous
 
+- [thc.org (The Hacker's Choice)](https://www.thc.org/) - Multiple tools.
+
 ## 🛠️ Some Tools
 
 - [devina.io](https://devina.io/) - Several tools (Network, Security, Website, Code, Data).
