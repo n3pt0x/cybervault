@@ -1,4 +1,14 @@
-# 📝 Offensive
+# 👾 Offensive
+
+## 🗂️ Resources
+
+- [The Art Of Hacking](https://github.com/The-Art-of-Hacking/h4cker) - Comprehensive collection of cybersecurity-related references, tools, code, and other resources.
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Several list of cheatsheet repertoried by category.
+- [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - Pentest Tools, resources, OSINT, and much more.
+- [Awesome Red Teaming](https://github.com/0xMrNiko/Awesome-Red-Teaming) - (Scan, Evasion, Hosting, Pivot, Post Exploit & much more).
+- [Awesome Red Teaming](https://github.com/SecuritySeizin/Awesome-Red-Teaming-1) - (Lateral Movement, PrivEsc, Obfuscation, Evasion & Malwares and much more).
+- [RedTeaming Tactics and Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques)
+- [Orange Cyber Defense MindMaps](https://orange-cyberdefense.github.io/ocd-mindmaps/) - AD mindmap.
 
 ## 🆆 Knowledge Base / Wiki
 
@@ -28,10 +38,10 @@
 
 ## 📝 Note / Writeup / Cheatsheet
 
+- [pentest-book.com](https://www.pentest-book.com/)
 - [Exploit Notes](https://exploit-notes.hdks.org/) - Exploit Notes is sticky notes for pentesting.
 - [s1rn3tz.ovh (FR)](https://blog.s1rn3tz.ovh/) - Notes & Resources taken during a pentesting missions.
 - [Red Team Notes](https://www.ired.team/) - Notes about pentesting experiences & missions of author.
 - [Pentest Everything](https://viperone.gitbook.io/pentest-everything/) - Good notes for Active Directory pentesting.
-- [pentest-book.com](https://www.pentest-book.com/)
 - [Pentesting Notes](https://notes.incendium.rocks/pentesting-notes/)
 - [Applications Cheatsheets](https://0xn3va.gitbook.io/cheat-sheets/) - Containers, Framwork, CI/CD, Cloud, Mobile and more.
