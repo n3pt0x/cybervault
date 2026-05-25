@@ -6,12 +6,20 @@
 ## 👾 Cybersecurity
 
 - [PentesterLand](https://pentester.land/) - Writeups, exploit, references, and much more.
-- [OFFSEC Tools](https://offsec.tools/) - Vast listing of security tools.
+- [repo.zenk-security.com](https://repo.zenk-security.com/) - Multiple resources about cybersecurite (Reverse, Conferences, Crypto, Forensic and much more)
+
+### 🔵 Blue Team
+
 - [Awesome CSIRT](https://github.com/Spacial/awesome-csirt) - CVEs, Red / Blue Team, Social Engineering, Post Exploit, Mobile, Low Level, RF.
-- [CyberSources](https://www.cybersources.site/) | [Github](https://github.com/bst04/CyberSources) - Top-rated tools and guides from the community.
-- [Awesome Bugbounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 - [APTnotes](https://github.com/aptnotes/data) - Repository of public resources related to malicious activity associated with APT group.
+
+### 🛠️ Tools / Guide / Blog
+
+- [Roso.info](https://roso.info/) / [Red Security](https://red-security.fr) - Link base, Blog, OSINT online tools.
+- [OFFSEC Tools](https://offsec.tools/) - Vast listing of security tools.
+- [CyberSources](https://www.cybersources.site/) / [Github](https://github.com/bst04/CyberSources) - Top-rated tools and guides from the community.
 - [Rawsec's](https://inventory.raw.pm/) - Inventory of several resources & tools.
+- [Awesome Bugbounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 
 ## 🛡️ Information Security (InfoSec)
 
