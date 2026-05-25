@@ -19,6 +19,7 @@
 ## ✍️ Blog
 
 - [Korben (FR)](https://korben.info) - Multiple news topics (cyber, hardware, developement and more).
+- [Une tasse de café (FR)](https://une-tasse-de.cafe/)
 - [globalsecuritymag.fr (FR)](https://www.globalsecuritymag.fr/) - Actuality, exploits, (interviews, investigations).
 - [Open Source Security](https://opensourcesecurity.io/)
 - [infosecwriteups.com](https://infosecwriteups.com/)
@@ -28,6 +29,9 @@
 
 - [HackMag](https://hackmag.com/) - News, Security, Malware, Coding, UNIX, DevOps.
 - [TrusteSec](https://trustedsec.com/blog) - Security insights, tips, and tricks.
+- [nu11secur1ty](https://www.nu11secur1ty.com/) - <Badge type="danger" text="#hacking"/>
+- [Deep Hacking](https://blog.deephacking.tech/en/) - <Badge type="danger" text="#hacking"/>
+- [SpecterOps](https://specterops.io/blog/) - <Badge type="danger" text="#hacking"/>
 - [#\_shellntel](https://blog.shellntel.com/)
 - [vaadata](https://www.vaadata.com/blog/) - Offensive blog.
 - [darknet.org.uk](https://www.darknet.org.uk/) - Exploits, attacks explanations, hacking tools presentations.
