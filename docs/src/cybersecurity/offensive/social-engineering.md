@@ -23,4 +23,5 @@
 
 ## 🛠️ Tools
 
+- [seeker](https://github.com/thewhiteh4t/seeker) -  Accurately Locate Smartphones using Social Engineering.
 - [Malicious PDF Generator](https://github.com/jonaslejon/malicious-pdf)
