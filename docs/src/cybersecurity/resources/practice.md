@@ -20,9 +20,11 @@
 - [Game Of Active Directory (GOAD)](https://orange-cyberdefense.github.io/GOAD/#) - Orange Cyberdefense.
 - [VulnHub](https://www.vulnhub.com/) - Downloadable VMs and ready to be hacked. <Badge type="danger" text="#advanced"/>
 - [Vulhub](https://vulhub.org/) | [github](https://github.com/vulhub/vulhub/) - Pre-built vulnerable environments based on docker.
+- [VulNyx](https://vulnyx.com/) - Downloadable VMs and ready to be hacked.
 
 ## 💸 BugBounty
 
+- [chaos.projectdiscovery.io](https://chaos.projectdiscovery.io/) - Public Bug Bounty Data updated in real time.
 - [YesWeHack](https://yeswehack.com/programs) - Global Bug Bounty & Vulnerability Management Platform.
 - [bugcrowd](https://www.bugcrowd.com/) - Join forces with hackers and reduce risk.
 - [HackerOne](https://www.hackerone.com/) - Platform recognized in the world of bug bounty programs.
