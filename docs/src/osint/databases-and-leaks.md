@@ -20,6 +20,7 @@ title: "Databases & Leaks"
 - [OpenBuckets](https://openbuckets.io/) - Find exposed buckets (AWS, Azure, IBM and much more).
 - [GrayHatWarfare](https://buckets.grayhatwarfare.com/) - Search engine for public Amazon S3 buckets and exposed files.
 - [Gitleaks](https://github.com/gitleaks/gitleaks) - Detecting passwords, API keys, tokens in git repositories.
+- [GitGot](https://github.com/BishopFox/GitGot) - Search for sensitive secrets.
 - [TruffleHog](https://github.com/trufflesecurity/truffleHog) - The most powerful secrets Discovery, Validation, and Analysis tool.
 
 #### Github commit leak email
