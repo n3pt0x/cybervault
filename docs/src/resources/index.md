@@ -6,12 +6,12 @@
 ## 👾 Cybersecurity
 
 - [PentesterLand](https://pentester.land/) - Writeups, exploit, references, and much more.
-- [repo.zenk-security.com](https://repo.zenk-security.com/) - Multiple resources about cybersecurite (Reverse, Conferences, Crypto, Forensic and much more)
+- [Zenk Security](https://repo.zenk-security.com/) - Repository (Reverse, Crypto, Forensic, Book & much more)
 
 ### 🔵 Blue Team
 
-- [Awesome CSIRT](https://github.com/Spacial/awesome-csirt) - CVEs, Red / Blue Team, Social Engineering, Post Exploit, Mobile, Low Level, RF.
-- [APTnotes](https://github.com/aptnotes/data) - Repository of public resources related to malicious activity associated with APT group.
+- [Awesome CSIRT](https://github.com/Spacial/awesome-csirt) - CVEs, Red / Blue Team, Social Engineering, Post Exploit, Mobile, RF.
+- [APTnotes](https://github.com/aptnotes/data) - Repository of public resources related to malicious activities of APT groups.
 
 ### 🛠️ Tools / Guide / Blog
 

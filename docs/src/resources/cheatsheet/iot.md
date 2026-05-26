@@ -1,3 +1,7 @@
+---
+title: "IoT"
+---
+
 # 🤖 IoT
 
 ## 🗂️ Resources

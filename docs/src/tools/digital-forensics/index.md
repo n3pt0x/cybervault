@@ -1,4 +1,4 @@
-# 🕵️ Digital Forensic
+# 🕵️ Digital Forensics
 
 ## 📌 General
 
