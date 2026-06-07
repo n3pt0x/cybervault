@@ -10,6 +10,7 @@
 - [guerrillamail.com](https://www.guerrillamail.com/) - Disposable email, auto-expiring.
 - [cs.email](https://cs.email/)
 - [Yopmail](https://yopmail.com/)
+- [boomlify.com](https://boomlify.com/) - Multiple features (Gmail, Edu, 2FA).
 - [tempgmail.net](https://tempgmail.net/) | [smailpro.com](https://smailpro.com/temporary-email) | [temporary-mail.net](https://www.temporary-mail.net/) - `@gmail.com` DNS.
 
 ### 📱 Temporary Phone Numbers
