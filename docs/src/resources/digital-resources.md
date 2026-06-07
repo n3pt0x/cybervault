@@ -4,6 +4,7 @@
 
 - [FHMY](https://fmhy.net) - The largest collection of free stuff on the internet **(Very complete)**.
 - [Welib](https://welib.org/) - Ebook Library.
+- [Anna’s Archive](https://annas-archive.gl/) - The largest truly open library in human history.
 
 ### 👾 CyberSecurity
 
