@@ -1,3 +1,7 @@
+---
+title: "Tools & Platforms"
+---
+
 # 🧠 Tools & Platforms
 
 ## 🌐 Web Tools
@@ -13,6 +17,8 @@
 
 ## ⚙️ Automation & Toolkits
 
+- [Robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool.
+- [Flowsint](https://github.com/wilsocc/flowsint-main) - Graph exploration tool (Domain, IP, Social, Website, email & much more).
 - [sherlock](https://github.com/sherlock-project/sherlock) - Find usernames across social media.
 - [Twint](https://github.com/twintproject/twint) - Advanced Twitter scraping (no API needed).
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT collection.
