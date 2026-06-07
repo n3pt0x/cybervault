@@ -32,12 +32,12 @@
 
 - [TinEye](https://tineye.com/) - Reverse image search engine.
 - [PimEyes](https://pimeyes.com/en) - Face recognition search engine.
+- [FaceCheckID](https://facecheck.id/) - Face recognition search engine.
 - [Yandex Images](https://ya.ru/) - Powerful reverse image search.
 - [Google Images](https://www.google.com/imghp?hl=EN) - Classic reverse image search.
 - [lenso](https://lenso.ai/en) - AI Reverse Image Search.
 - [InVID](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - Video and image verification plugin.
 - [Berify](https://www.berify.com/) - Reverse image search focused on identifying image duplicates.
-- [FaceCheckID](https://facecheck.id/)
 - [whichfaceisreal.com](https://www.whichfaceisreal.com/)
 - [AmIReal/](https://seintpl.github.io/AmIReal/) - Check if picture is generated via AI.
 
