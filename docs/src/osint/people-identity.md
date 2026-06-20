@@ -16,9 +16,11 @@
 
 ## 📧 Email / Username / Phone
 
+- [EmailOSINT.org](https://emailosint.org/) - Linked accounts, data breaches, Infostealer logs.
 - [Maigret](https://github.com/soxoj/maigret) - Collects a directory on a person by username only.
 - [Holehe (GitHub)](https://github.com/megadose/holehe) - Check if email is registered on popular platforms.
 - [enola](https://github.com/TheYahya/enola) - This is [Sherlock](https://github.com/sherlock-project/sherlock) sister.
+- [ROSINT](https://www.rosint.dev/) - Reddit Osint.
 - [emailrep.io](https://emailrep.io/) - Email reputation and OSINT scoring.
 - [Snov.io](https://snov.io/fr/trouver-une-adresse-mail) - Find emails linked to a domain.
 - [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool.
