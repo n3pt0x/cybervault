@@ -11,6 +11,10 @@ title: "IoT"
 - [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
 - [VARIoT](https://www.variotdbs.pl/) - IoT vulnerabilities and exploits databases.
 
+### 🏗️ Build
+
+- [Autodesk Instructables](https://www.instructables.com/circuits/projects) - Hardware circuit building guide.
+
 ## 🛠️ Tools
 
 - [Qiling](https://github.com/qilingframework/qiling) - Advanced binary emulation framework.
