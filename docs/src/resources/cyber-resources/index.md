@@ -12,6 +12,7 @@
 - [Packetstorm](https://packetstorm.news/) - <Badge type="info" text="#news"/><Badge type="info" text="#threat-intel"/>
 - [TheHackerNews](https://thehackernews.com/) - <Badge type="info" text="#news"/>
 - [SecurityWeek](https://www.securityweek.com/) - <Badge type="info" text="#news"/>
+- [Security Affairs](https://securityaffairs.com/) - <Badge type="info" text="#news"/>
 - [cyberveille.ch (FR)](https://cyberveille.ch/) - <Badge type="info" text="#news"/>
 - [podalirius.net](https://podalirius.net/en/) - <Badge type="info" text="#learning"/>
 - [acceis (FR)](https://www.acceis.fr/) - <Badge type="danger" text="#hacking"/><Badge type="info" text="#learning"/>
