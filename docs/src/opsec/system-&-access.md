@@ -15,11 +15,20 @@
 ## 🌐 Browsing
 
 - [Tor](https://www.torproject.org/)
+- [I2P](https://geti2p.net/en/)
+- [Hyphanet](https://www.hyphanet.org/)
+- [deWeb](https://massa.network/deweb)
+
+### 🌍 Browser
+
 - [Mullvad](https://mullvad.net/en/browser)
 - [LibreWolf](https://librewolf.net/)
-- [I2P](https://geti2p.net/en/)
 - [Orion](https://orionbrowser.com/)
 - [Che Browser](https://chebrowser.site/)
+
+#### Extension
+
+- [Chameleon](https://github.com/sereneblue/chameleon) - Spoofer for User Agent, Headers, and much more.
 
 ### 🔎 Search Engine
 

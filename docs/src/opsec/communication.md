@@ -18,6 +18,8 @@
 - [Telegram](https://telegram.org/)
 - [Session](https://getsession.org/)
 - [qTOX](https://qtox.github.io/)
+- [Quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS.
+- [terminalphone](https://github.com/Meritpayselection234/terminalphone) - Send encrypted voice and text messages via Tor hidden services in bash.
 
 ## 🔀 XMPP
 
