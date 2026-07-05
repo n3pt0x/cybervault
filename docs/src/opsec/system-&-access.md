@@ -26,9 +26,10 @@
 - [Orion](https://orionbrowser.com/)
 - [Che Browser](https://chebrowser.site/)
 
-#### Extension
+#### 🧩 Extension
 
 - [Chameleon](https://github.com/sereneblue/chameleon) - Spoofer for User Agent, Headers, and much more.
+- [Snowflake](https://snowflake.torproject.org/) - Hide Tor network behind a WebRTC (bypass Tor connection blocked).
 
 ### 🔎 Search Engine
 
@@ -65,6 +66,9 @@
 - [Proxy list comparison](https://docs.google.com/spreadsheets/d/1V1MFJJqwAtn9O_WgynUMXRbXLhsY2SAViADYsLZy63U/edit?gid=0#gid=0)
 - [spys.one](https://spys.one/en/)
 - [free-proxy](https://free-proxy.cz/)
+- [spyderproxy](https://spyderproxy.com/tools/free-proxy-list)
+- [roundproxies](https://roundproxies.com/free-proxy-list/)
+- [proxyscrape](https://proxyscrape.com/free-proxy-list)
 - [proxynova](https://www.proxynova.com/proxy-server-list/)
 - [way2proxy](https://way2proxy.com/free-proxy-list/)
 
