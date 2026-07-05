@@ -14,18 +14,25 @@
 - [Webmii](https://webmii.com/) - Search with first & last name.
 - [PeopleSearch](https://consumer-sos.com/Georgia/People_Search/peoplesearch.htm) - Public records aggregator.
 
-## 📧 Email / Username / Phone
+## 📧 Email
 
 - [EmailOSINT.org](https://emailosint.org/) - Linked accounts, data breaches, Infostealer logs.
-- [Maigret](https://github.com/soxoj/maigret) - Collects a directory on a person by username only.
 - [Holehe (GitHub)](https://github.com/megadose/holehe) - Check if email is registered on popular platforms.
 - [enola](https://github.com/TheYahya/enola) - This is [Sherlock](https://github.com/sherlock-project/sherlock) sister.
-- [ROSINT](https://www.rosint.dev/) - Reddit Osint.
 - [emailrep.io](https://emailrep.io/) - Email reputation and OSINT scoring.
 - [Snov.io](https://snov.io/fr/trouver-une-adresse-mail) - Find emails linked to a domain.
 - [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool.
-- [WhatsMyName](https://whatsmyname.app/) - Username search across multiple sites.
 - [Hunter.io](https://hunter.io/) - Find email addresses by domain.
+
+## 👤 Username
+
+- [Maigret](https://github.com/soxoj/maigret) - Collects a directory on a person by username only.
+- [ROSINT](https://www.rosint.dev/) - Reddit Osint.
+- [WhatsMyName](https://whatsmyname.app/) - Username search across multiple sites.
+
+## 📱 Phone
+
+- [phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering for phone numbers.
 - [francy-annu.com](https://francy-annu.com/) - French directory for prospecting campaigns.
 
 > 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/osint/databases-and-leaks.md)
