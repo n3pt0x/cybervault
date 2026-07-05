@@ -14,3 +14,8 @@
 ### 📚 Guide
 
 - [exploitee.rs](https://exploitee.rs/) - IoT & Mobile security, Entertainment Systems, (forum, wiki, blog, discord).
+
+## 🎓 Learning
+
+- [hackster.io](https://www.hackster.io/) - The community dedicated to learning hardware.
+
