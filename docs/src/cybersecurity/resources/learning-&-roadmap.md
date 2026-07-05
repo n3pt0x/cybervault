@@ -13,6 +13,7 @@
 - [Cybersecurity Syllabus](https://github.com/4GeeksAcademy/cybersecurity-syllabus)
 - [codecademy](https://www.codecademy.com/catalog/subject/cybersecurity) - Enterprise, DevSecOps, Fundamentals.
 - [SANS](https://www.sans.org/) - Free resources, courses, learning paths (beginner to confirmed).
+- [Corelan](https://www.corelan.be/) - Exploit developpement.
 - [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more). **(Freemium)**
 
 ### 💡 IOT
