@@ -9,12 +9,17 @@
 ## ⚙️ Framework
 
 - [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) - From TrustedSec.
-- [Evilginx 3](https://github.com/kgretzky/evilginx2)
-- [AdvPhishing](https://github.com/Ignitetch/AdvPhishing) - OTP phishing.
+- [Evilginx 3](https://github.com/kgretzky/evilginx2) | [Evilginx setup](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup)
+- [King Phisher](https://github.com/CrimsonForge-io/king-phisher)
 - [Storm Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 - [Gophish](https://getgophish.com/) - Phishing Framework.
+- [Zphisher](https://github.com/htr-tech/zphisher)
 - [PyPhisher](https://github.com/KasRoudra2/PyPhisher)
+- [FiercePhish](https://github.com/Raikia/FiercePhish)
+- [BlackEye](https://github.com/EricksonAtHome/blackeye)
 - [WifiPhisher](https://github.com/wifiphisher/wifiphisher)
+- [AdvPhishing](https://github.com/Ignitetch/AdvPhishing) - OTP phishing.
+- [Modlishka](https://github.com/drk1wi/modlishka) - 2FA Bypass.
 - [BeeF](https://beefproject.com/) - Pentest framework in browser include social engineering.
 
 ## Sp00fing
@@ -23,5 +28,5 @@
 
 ## 🛠️ Tools
 
-- [seeker](https://github.com/thewhiteh4t/seeker) -  Accurately Locate Smartphones using Social Engineering.
+- [seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering.
 - [Malicious PDF Generator](https://github.com/jonaslejon/malicious-pdf)
