@@ -65,7 +65,6 @@
 - [proxifly](https://github.com/proxifly/free-proxy-list)
 - [Proxy list comparison](https://docs.google.com/spreadsheets/d/1V1MFJJqwAtn9O_WgynUMXRbXLhsY2SAViADYsLZy63U/edit?gid=0#gid=0)
 - [spys.one](https://spys.one/en/)
-- [free-proxy](https://free-proxy.cz/)
 - [spyderproxy](https://spyderproxy.com/tools/free-proxy-list)
 - [roundproxies](https://roundproxies.com/free-proxy-list/)
 - [proxyscrape](https://proxyscrape.com/free-proxy-list)
