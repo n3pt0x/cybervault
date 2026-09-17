@@ -14,4 +14,4 @@
 - [OpenCTI](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform.
 - [GreyNoise](https://viz.greynoise.io) - Detect attacks on edge systems in real-time.
 - [Ransomware Live](https://www.ransomware.live/) - API, Press, Statistics, Ransom Notes, Groups & much more.
-- [SOCRadar](https://socradar.io/) - Early warning system against hackers (Resources, Tools). **(Freemium)**
+- [SOCRadar](https://socradar.io/) - Early warning system against hackers (Resources, Tools). <Badge type="tip" text="Freemium"/>

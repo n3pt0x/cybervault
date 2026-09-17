@@ -14,7 +14,11 @@
 - [codecademy](https://www.codecademy.com/catalog/subject/cybersecurity) - Enterprise, DevSecOps, Fundamentals.
 - [SANS](https://www.sans.org/) - Free resources, courses, learning paths (beginner to confirmed).
 - [Corelan](https://www.corelan.be/) - Exploit developpement.
-- [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more). **(Freemium)**
+- [pwn.guide](https://pwn.guide/tutorials) - Learn with tutorials (Jailbreak, Forensic, Web and more). <Badge type="tip" text="Freemium"/>
+
+### Malware Development
+
+- [0x12darkdev.net](https://0x12darkdev.net) <Badge type="danger" text="Paid"/>
 
 ### 🛡️ InfoSec
 
@@ -30,12 +34,12 @@
 - [Maldev Academy](https://maldevacademy.com/) - Malware developpement, Red / Blue team course.
 - [OverTheWire](https://overthewire.org/wargames/) - Learn through guided exercices linux, web, BoF and more.
 - [pwn.college](https://pwn.college) - Cybersecurity learning site with course & challenges.
-- [PortSwigger](https://portswigger.net/web-security/all-topics) - Learn web pentesting through labs exercices and courses. <Badge type="tip" text="#web"/>
-- [BugBountyHunter](https://www.bugbountyhunter.com/) - BugBounty techniques & methodology. <Badge type="tip" text="#web"/>
-- [CryptoHack (courses)](https://cryptohack.org/courses/) - Fun platform to learn modern cryptography. <Badge type="tip" text="#cryptography"/>
+- [PortSwigger](https://portswigger.net/web-security/all-topics) - Learn web pentesting through labs exercices and courses.
+- [BugBountyHunter](https://www.bugbountyhunter.com/) - BugBounty techniques & methodology.
+- [CryptoHack (courses)](https://cryptohack.org/courses/) - Fun platform to learn modern cryptography.
 
 ### 🔵 Blue Team
 
-- [CyberDefenders](https://cyberdefenders.org/) - Blue Teams plateform to train and to learn. **(Freemium)**
-- [Blueteam Labs](https://blueteamlabs.online/) - Blue Team Labs Online. **(Freemium)**
-- [LetsDefend](https://letsdefend.io/) - Hands-On Blue Team Training. **(Freemium)**
+- [CyberDefenders](https://cyberdefenders.org/) - Blue Teams plateform to train and to learn. <Badge type="tip" text="Freemium"/>
+- [Blueteam Labs](https://blueteamlabs.online/) - Blue Team Labs Online. <Badge type="tip" text="Freemium"/>
+- [LetsDefend](https://letsdefend.io/) - Hands-On Blue Team Training. <Badge type="tip" text="Freemium"/>

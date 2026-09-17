@@ -3,6 +3,7 @@
 ## 🧰 Comprehensive OSINT Tools
 
 - [SocialSearcher](https://www.social-searcher.com/) - Real-time social media monitoring and search engine (Very good results).
+- [roso.info](https://roso.info/) - OSINT online tools.
 - [osint.rocks](https://osint.rocks) - Aggregator of multiple OSINT tools.
 - [Epieos](https://epieos.com/) - Advanced email lookup and OSINT analysis.
 - [thatsthem.com](https://thatsthem.com/) - Saerch engine via various resources in our possession.
@@ -61,5 +62,5 @@
 
 - [FamilyTreeNow](https://www.familytreenow.com/) - Public records lookup.
 - [Whitepages](https://www.whitepages.com/) - People lookup & public records.
-- [BeenVerified](https://www.beenverified.com/) - Identity & people search. **(paid)**
+- [BeenVerified](https://www.beenverified.com/) - Identity & people search. <Badge type="danger" text="Paid"/>
 - [filae.com](https://www.filae.com/) - Genealogy tools via multiple informations (born before 1920).

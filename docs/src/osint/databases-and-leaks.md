@@ -53,11 +53,11 @@ title: "Databases & Leaks"
 - [ProxyNova - COMB](https://www.proxynova.com/tools/comb/) - API to search password leaks from emails.
 - [BreachDirectory](https://breachdirectory.org/) - Alternative to HIBP, search for breached emails/usernames.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if an email/username was leaked in breaches.
-- [Leak-Lookup](https://leak-lookup.com/) - Breach database with API. **(Freemium)**
-- [Dehashed](https://dehashed.com/) - Powerful breach search engine. **(Paid)**
-- [Snusbase](https://snusbase.com/) - Credential leaks search with a simple interface. **(Paid)**
+- [Leak-Lookup](https://leak-lookup.com/) - Breach database with API. <Badge type="tip" text="Freemium"/>
+- [Dehashed](https://dehashed.com/) - Powerful breach search engine. <Badge type="danger" text="Paid"/>
+- [Snusbase](https://snusbase.com/) - Credential leaks search with a simple interface. <Badge type="danger" text="Paid"/>
 
 ### 📂 Documents
 
 - [cryptome.org](https://cryptome.org/) - Archive of leaked documents since 1996.
-- [IntelligenceX](https://intelx.io/) - Powerful search engine indexing leaks, paste sites, darknet, and public data. **(Paid)**
+- [IntelligenceX](https://intelx.io/) - Powerful search engine indexing leaks, paste sites, darknet, and public data. <Badge type="danger" text="Paid"/>

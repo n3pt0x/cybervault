@@ -15,7 +15,7 @@
 
 - [DogBolt](https://dogbolt.org/) - Multiple decompiler online.
 - [Gidra](https://github.com/NationalSecurityAgency/ghidra)
-- [IDA](https://hex-rays.com/) **(Freemium)**
+- [IDA](https://hex-rays.com/) <Badge type="tip" text="Freemium"/>
 
 ## 0️⃣1️⃣ Binary Analysis
 

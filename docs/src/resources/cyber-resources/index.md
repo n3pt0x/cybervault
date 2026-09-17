@@ -23,6 +23,8 @@
 - [Une tasse de café (FR)](https://une-tasse-de.cafe/)
 - [globalsecuritymag.fr (FR)](https://www.globalsecuritymag.fr/) - Actuality, exploits, (interviews, investigations).
 - [Open Source Security](https://opensourcesecurity.io/)
+- [blog.0x12darkdev.net](https://blog.0x12darkdev.net/)
+- [Telekom Security](https://github.security.telekom.com/)
 - [infosecwriteups.com](https://infosecwriteups.com/)
 - [Hacking Articles](https://www.hackingarticles.in/)
 

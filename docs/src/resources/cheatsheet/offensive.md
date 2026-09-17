@@ -6,7 +6,7 @@
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Several list of cheatsheet repertoried by category.
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - Pentest Tools, resources, OSINT, and much more.
 - [Awesome Red Teaming](https://github.com/0xMrNiko/Awesome-Red-Teaming) - (Scan, Evasion, Hosting, Pivot, Post Exploit & much more).
-- [Awesome Red Teaming](https://github.com/SecuritySeizin/Awesome-Red-Teaming-1) - (Lateral Movement, PrivEsc, Obfuscation, Evasion & Malwares and much more).
+- [Awesome Red Teaming](https://github.com/paulveillard/cybersecurity-red-team) - (Lateral Movement, PrivEsc, Evasion, Persistence, Ebooks and much more).
 - [RedTeaming Tactics and Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques)
 - [Orange Cyber Defense MindMaps](https://orange-cyberdefense.github.io/ocd-mindmaps/) - AD mindmap.
 

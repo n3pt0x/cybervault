@@ -30,4 +30,8 @@
 
 ## 🎯 Practice Platforms
 
-- [pwn.college Dojos](https://pwn.college/dojos) - Ranked challenges by difficulty level.
+- [How2Heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
+- [pwn.college Dojos](https://pwn.college/dojos)
+- [pwnable.tw](https://pwnable.tw/)
+- [pwnable.kr](https://pwnable.kr/)
+- [ropemporium.com](https://ropemporium.com/)

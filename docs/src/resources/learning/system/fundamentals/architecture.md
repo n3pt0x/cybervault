@@ -14,6 +14,7 @@
 - [C O D E](https://www.amazon.com/exec/obidos/ASIN/0735611319) - The Hidden Language of Computer Hardware and Software.
 - [Operating Systems: Three Easy Pieces](https://ia600600.us.archive.org/7/items/operating-systems-three-easy-pieces/Remzi%20H.%20Arpaci-Dusseau%2C%20Andrea%20C.%20Arpaci-Dusseau%20-%20Operating%20Systems%20-%20Three%20Easy%20Pieces.pdf) / [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Dive Into Systems: A Gentle Introduction to Computer Systems](https://www.amazon.com/Dive-Into-Systems-Introduction-Computer/dp/1718501366)
+- [Linkers and Loaders (John R. Levine)](http://staroceans.org/e-book/LinkersAndLoaders.pdf)
 
 ## 📝 Theory & Concepts
 

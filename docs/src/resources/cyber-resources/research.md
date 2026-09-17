@@ -6,8 +6,9 @@
 
 ## ✍️ Researcher Blog
 
+- [arzedlab](https://arzedlab.github.io/)
 - [ash](https://bikini.github.io/) - Exploits, research.
-- [corelan](https://www.corelan.be/index.php/articles/) - Exploit learning, research, articles.
 - [chocapikk](https://chocapikk.com/) - Articles, exploits, research.
 - [Rewrite Lab](https://research.rewritelab.org/) - Research team focused on web security vulnerabilities.
 - [nu11secur1ty](https://www.nu11secur1ty.com/) [(github)](https://github.com/nu11secur1ty) - Exploits, CVE.
+- [corelan](https://www.corelan.be/index.php/articles/) - Exploit learning, research, articles.

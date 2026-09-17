@@ -4,7 +4,6 @@
 
 - [OPBible](http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/)
 - [DNM Bible](http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/)
-- [Bible](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/)
 - [The OpSec Manual](http://jqibjqqagao3peozxfs53tr6aecoyvctumfsc2xqniu4xgcrksal2iqd.onion/)
 - [OpSec Guide & Resources](https://whos-zycher.github.io/opsec-guide/)
 - [Crypto OpSec Roadmap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
