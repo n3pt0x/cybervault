@@ -14,6 +14,7 @@
 - [FotoForensics](https://fotoforensics.com/)
 - [StegOnline](https://georgeom.net/StegOnline/upload)
 - [Exiftool (online)](https://exif.tools/) | [Exiftool (CLI)](https://exiftool.org) – Extract metadata from images.
+- [MetadataRemover.ai Metadata Viewer](https://metadataremover.ai/metadata-viewer) – Inspect EXIF/IPTC/XMP locally in the browser; corroborate fields because metadata may be edited or stripped.
 - [Steganography](https://github.com/ragibson/Steganography) - LSB Steagnography tool.
 
 ### 📁 Documents
