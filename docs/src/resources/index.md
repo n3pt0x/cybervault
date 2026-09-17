@@ -5,7 +5,7 @@
 
 ## 👾 Cybersecurity
 
-- [Follow this cheatsheet](/cybersecurity#🔗-resources)
+- [Follow this cheatsheet](/cybersecurity/index.md#🔗-resources)
 
 ## 🛡️ Information Security (InfoSec)
 
