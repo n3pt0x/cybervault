@@ -1,0 +1,34 @@
+name: Weekly nodejs packages audit
+
+on:
+  schedule:
+    # Run at 8 AM UTC each monday
+    - cron: "0 8 * * 1"
+
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6.5.0
+        with:
+          node-version: "26"
+
+      - run: npm ci
+
+      - name: Audit fix
+        run: npm audit fix || true
+
+      - name: Open PR
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
+        with:
+          commit-message: "chore: weekly npm audit fix"
+          branch: chore/npm-audit
+          title: "chore: weekly npm audit fix"
+          body: "Automated weekly `npm audit fix`. Review the lockfile diff before merging."
+          delete-branch: true
