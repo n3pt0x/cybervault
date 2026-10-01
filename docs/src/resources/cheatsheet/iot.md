@@ -22,10 +22,11 @@ title: "IoT"
 
 ## 🛠️ Tools
 
-- [Qiling](https://github.com/qilingframework/qiling) - Advanced binary emulation framework.
-- [Genzai](https://github.com/umair9747/Genzai) - IoT security toolkit scanner.
+> [!tip]
+> Refer to this cheatsheet **[`IoT Tools`](/tools/embedded/iot.md)**
 
 ## 🐬 Flipper
 
 - [Awesome FlipperZero](https://github.com/djsime1/awesome-flipperzero)
 - [Flipper stuff](https://github.com/UberGuidoZ/Flipper/tree/main)
+https://espterminator.com/

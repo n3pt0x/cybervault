@@ -11,12 +11,6 @@
 - [Volatility 3](https://github.com/volatilityfoundation/volatility3) / [Cheatsheet](https://hacktivity.fr/volatility-3-cheatsheet/) - Framework for extracting digital artifacts from RAM.
 - [Hindsight](https://github.com/obsidianforensics/hindsight) - Web Browser forensics for Chromium.
 
-## ⏪ Decompiler
-
-- [DogBolt](https://dogbolt.org/) - Multiple decompiler online.
-- [Gidra](https://github.com/NationalSecurityAgency/ghidra)
-- [IDA](https://hex-rays.com/) <Badge type="tip" text="Freemium"/>
-
 ## 0️⃣1️⃣ Binary Analysis
 
 - [CyberChef](https://gchq.github.io/CyberChef/) / [github](https://github.com/gchq/CyberChef) - Analysing and en/decoding data.

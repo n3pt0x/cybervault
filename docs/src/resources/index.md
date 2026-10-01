@@ -2,10 +2,15 @@
 
 - [trackawesomelist.com](https://www.trackawesomelist.com/) - Track Awesome List Updates Daily.
 - [awesome.ecosyste.ms](https://awesome.ecosyste.ms/) - Awesome List for ALL.
+- [stephane-robert.info](https://blog.stephane-robert.info/) - DevSecOps repo (DevSec, sys, net, security, Cloud & much more).
 
 ## 👾 Cybersecurity
 
 - [Follow this cheatsheet](/cybersecurity/index.md#🔗-resources)
+
+### 🔎 Audit
+
+- [ewokk.github.io (FR)](https://ewokk.github.io/Pilote/) - ISO, DORA, NIST, NIS2 & much more (standars & references, courses, lexical, sensibilisation).
 
 ## 🛡️ Information Security (InfoSec)
 
