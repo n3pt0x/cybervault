@@ -25,6 +25,8 @@
 - [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool.
 - [Hunter.io](https://hunter.io/) - Find email addresses by domain.
 
+> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/osint/databases-and-leaks.md)
+
 ## 👤 Username
 
 - [Maigret](https://github.com/soxoj/maigret) - Collects a directory on a person by username only.
@@ -35,8 +37,6 @@
 
 - [phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering for phone numbers.
 - [francy-annu.com](https://francy-annu.com/) - French directory for prospecting campaigns.
-
-> 🕵️‍♂️ [Github email Leaks in commits (see this cheatsheet)](/osint/databases-and-leaks.md)
 
 ## 🖼️ Image & Face Search
 
