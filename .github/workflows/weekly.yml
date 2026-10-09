@@ -3,7 +3,7 @@ name: Weekly nodejs packages audit
 on:
   schedule:
     # Run at 10 AM UTC, only Monday, Wednesday and Friday
-    - cron: "0 8 * * 1,3,5"
+    - cron: "0 10 * * 1,3,5"
 
   workflow_dispatch:
 
