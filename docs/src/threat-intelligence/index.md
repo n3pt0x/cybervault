@@ -20,6 +20,10 @@ title: "Threat Intelligence"
 - [Ransomware Live](https://www.ransomware.live/) - API, Press, Statistics, Ransom Notes, Groups & much more.
 - [SOCRadar](https://socradar.io/) - Early warning system against hackers (Resources, Tools). <Badge type="tip" text="Freemium"/>
 
+## 📊 Indexes & Daily Barometers
+
+- [ICHI – Internet Cyber Health Index](https://ichi.global) - Free, source-transparent daily barometer of internet cyber health. Aggregates telemetry and threat feeds into a single directional index with evidence links. Outside-in signal, not an org-specific risk score.
+
 ## 🔵 Blue Team & CSIRT
 
 - [Awesome CSIRT](https://github.com/Spacial/awesome-csirt) - CVEs, Red / Blue Team, Social Engineering, Post Exploit, Mobile, RF.
