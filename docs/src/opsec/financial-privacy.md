@@ -8,6 +8,7 @@
 - [Orange Fren](https://orangefren.com) - Best deal. Without KYC.
 - [Monerica](https://monerica.com/) - A directory for a Monero circular economy (mining, nodes and much more).
 - [Cryptwerk](https://cryptwerk.com/) - Companies accepting cryptocurrencies.
+- [XMRList](https://xmrlist.com/) - Hand-reviewed directory of businesses that accept Monero.
 
 ## 🪙 Cryptocurrency
 
